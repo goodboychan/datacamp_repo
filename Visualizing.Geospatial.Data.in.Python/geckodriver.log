@@ -1,0 +1,24 @@
+1593759051999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kcsgo\\AppData\\Local\\Temp\\rust_mozprofileCxQGI1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593759053116	Marionette	INFO	Listening on port 7715
+1593759053519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593759060934	Marionette	INFO	Stopped listening on port 7715
+1593759073017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kcsgo\\AppData\\Local\\Temp\\rust_mozprofileXt2pcP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593759074144	Marionette	INFO	Listening on port 7790
+1593759074558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593759080280	Marionette	INFO	Stopped listening on port 7790
+1593759565343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kcsgo\\AppData\\Local\\Temp\\rust_mozprofileJEr0F6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593759566529	Marionette	INFO	Listening on port 8323
+1593759566860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593759573082	Marionette	INFO	Stopped listening on port 8323
+1593759602055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\kcsgo\\AppData\\Local\\Temp\\rust_mozprofilek7SkU2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593759603161	Marionette	INFO	Listening on port 8405
+1593759603590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593759609209	Marionette	INFO	Stopped listening on port 8405
