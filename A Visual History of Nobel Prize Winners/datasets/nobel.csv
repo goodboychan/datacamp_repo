@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 year,category,prize,motivation,prize_share,laureate_id,laureate_type,full_name,birth_date,birth_city,birth_country,sex,organization_name,organization_city,organization_country,death_date,death_city,death_country
 1901,Chemistry,The Nobel Prize in Chemistry 1901,"""in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions""",1/1,160,Individual,Jacobus Henricus van 't Hoff,1852-08-30,Rotterdam,Netherlands,Male,Berlin University,Berlin,Germany,1911-03-01,Berlin,Germany
 1901,Literature,The Nobel Prize in Literature 1901,"""in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect""",1/1,569,Individual,Sully Prudhomme,1839-03-16,Paris,France,Male,NA,NA,NA,1907-09-07,Châtenay,France
@@ -912,13 +910,3 @@ year,category,prize,motivation,prize_share,laureate_id,laureate_type,full_name,b
 2016,Physics,The Nobel Prize in Physics 2016,"""for theoretical discoveries of topological phase transitions and topological phases of matter""",1/2,928,Individual,David J. Thouless,1934-09-21,Bearsden,United Kingdom,Male,University of Washington,"Seattle, WA",United States of America,NA,NA,NA
 2016,Physics,The Nobel Prize in Physics 2016,"""for theoretical discoveries of topological phase transitions and topological phases of matter""",1/4,929,Individual,F. Duncan M. Haldane,1951-09-14,London,United Kingdom,Male,Princeton University,"Princeton, NJ",United States of America,NA,NA,NA
 2016,Physics,The Nobel Prize in Physics 2016,"""for theoretical discoveries of topological phase transitions and topological phases of matter""",1/4,930,Individual,J. Michael Kosterlitz,1943-06-22,Aberdeen,United Kingdom,Male,Brown University,"Providence, RI",United States of America,NA,NA,NA
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0d748a3c25b5ccee6f0dfd6aac5340d3a14c91bc1928ec0c7ae7eb746fa692f
-size 275947
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0d748a3c25b5ccee6f0dfd6aac5340d3a14c91bc1928ec0c7ae7eb746fa692f
-size 275947
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
