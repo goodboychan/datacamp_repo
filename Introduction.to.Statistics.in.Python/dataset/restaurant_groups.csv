@@ -1,11 +1,3 @@
-group_id,group_size
-A,2
-B,4
-C,6
-D,2
-E,2
-F,2
-G,3
-H,2
-I,4
-J,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:f483003968d16f353bc488292179b7defb5b4f471182e7be232d47765399a567
+size 59
