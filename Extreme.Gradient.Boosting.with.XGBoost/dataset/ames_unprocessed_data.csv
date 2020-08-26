@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 MSSubClass,MSZoning,LotFrontage,LotArea,Neighborhood,BldgType,HouseStyle,OverallQual,OverallCond,YearBuilt,Remodeled,GrLivArea,BsmtFullBath,BsmtHalfBath,FullBath,HalfBath,BedroomAbvGr,Fireplaces,GarageArea,PavedDrive,SalePrice
 60,RL,65.0,8450,CollgCr,1Fam,2Story,7,5,2003,0,1710,1,0,2,1,3,0,548,Y,208500
 20,RL,80.0,9600,Veenker,1Fam,1Story,6,8,1976,0,1262,0,1,2,0,3,1,460,Y,181500
@@ -1460,6 +1461,11 @@ MSSubClass,MSZoning,LotFrontage,LotArea,Neighborhood,BldgType,HouseStyle,Overall
 70,RL,66.0,9042,Crawfor,1Fam,2Story,7,9,1941,1,2340,0,0,2,0,4,2,252,Y,266500
 20,RL,68.0,9717,NAmes,1Fam,1Story,5,6,1950,1,1078,1,0,1,0,2,0,240,Y,142125
 20,RL,75.0,9937,Edwards,1Fam,1Story,5,6,1965,0,1256,1,0,1,1,3,0,276,Y,147500
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0554b3ceb8e16eab4eab514adb7c53b940a8548e0621023ba7392f8dee1f761
+size 111673
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:f0554b3ceb8e16eab4eab514adb7c53b940a8548e0621023ba7392f8dee1f761

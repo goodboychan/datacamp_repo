@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,CO2_ppm
 1958-03-01,315.71
 1958-04-01,317.45
@@ -727,6 +728,11 @@ date,CO2_ppm
 2018-07-01,408.71
 2018-08-01,406.99
 2018-09-01,405.51
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7279271534f893f5ae54185e7c23feb60cc275687a015e746691c7eda7dc946
+size 13027
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:e7279271534f893f5ae54185e7c23feb60cc275687a015e746691c7eda7dc946

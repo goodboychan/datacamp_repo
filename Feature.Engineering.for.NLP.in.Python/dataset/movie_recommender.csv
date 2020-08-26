@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 index,title,overview
 0,The Dark Knight Rises,"Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy."
 1,Batman Forever,"The Dark Knight of Gotham City confronts a dastardly duo: Two-Face and the Riddler. Formerly District Attorney Harvey Dent, Two-Face believes Batman caused the courtroom accident which left him disfigured on one side. And Edward Nygma, computer-genius and former employee of millionaire Bruce Wayne, is out to get the philanthropist; as The Riddler. Former circus acrobat Dick Grayson, his family killed by Two-Face, becomes Wayne's ward and Batman's new partner Robin."
@@ -1008,6 +1009,11 @@ index,title,overview
 1005,Manhattan,The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.
 1006,Miller's Crossing,"Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman."
 1007,Dead Poets Society,"At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster."
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:aed17c3ac1b745ff562e891fbbb590ae75e1e8741dda56964d14f9a3045b356c
+size 341971
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:aed17c3ac1b745ff562e891fbbb590ae75e1e8741dda56964d14f9a3045b356c

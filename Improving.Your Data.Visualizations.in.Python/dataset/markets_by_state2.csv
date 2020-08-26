@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,state,num_markets,population,people_per_market
 45,Vermont,92,626562,6810.45652173913
 34,North Dakota,66,739482,11204.272727272728
@@ -51,6 +52,11 @@
 28,Nevada,38,2839099,74713.13157894737
 9,Florida,263,19893297,75639.91254752851
 43,Texas,226,26956958,119278.57522123893
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc6102392163be5aac0583084dd7b8642eac4c0ec5cb4c03f2059679a644d346
+size 2178
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:cc6102392163be5aac0583084dd7b8642eac4c0ec5cb4c03f2059679a644d346

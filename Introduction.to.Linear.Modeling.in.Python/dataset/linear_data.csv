@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,masses,volumes
 0,7.812434536366324,2.0
 1,7.698824358634993,2.1
@@ -101,6 +102,11 @@
 98,18.36799991560519,11.8
 99,18.609803203407225,11.9
 100,18.6052871435214,12.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:b98311663bc8583f1687fd5059b5c640da0b2e4bba87cc9bd6266a4b35474af3
+size 2926
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:b98311663bc8583f1687fd5059b5c640da0b2e4bba87cc9bd6266a4b35474af3

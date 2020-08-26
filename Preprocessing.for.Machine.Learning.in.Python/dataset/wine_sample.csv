@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Flavanoids,Total phenols,Malic acid,OD280/OD315 of diluted wines,Hue
 3.06,2.8,1.71,3.92,1.04
 2.76,2.65,1.78,3.4,1.05
@@ -178,6 +179,11 @@ Flavanoids,Total phenols,Malic acid,OD280/OD315 of diluted wines,Hue
 0.69,1.59,4.28,1.56,0.59
 0.68,1.65,2.59,1.62,0.6
 0.76,2.05,4.1,1.6,0.61
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd6522028fd4a23a61a9e95b9999badbb0e746389fa8c097e071c86754d5fc23
+size 4391
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:dd6522028fd4a23a61a9e95b9999badbb0e746389fa8c097e071c86754d5fc23

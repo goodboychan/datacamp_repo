@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,JNJ,JPM,XOM
 2010-01-04,64.68,42.85,69.15
 2010-01-05,63.93,43.68,69.42
@@ -1762,6 +1763,11 @@ date,JNJ,JPM,XOM
 2016-12-28,115.1,86.5,90.3
 2016-12-29,115.49,85.89,90.35
 2016-12-30,115.21,86.29,90.26
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:f30951f6089496d90df413897b4709a4da32b8414095387a36b2816dd3e76c4f
+size 51121
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:f30951f6089496d90df413897b4709a4da32b8414095387a36b2816dd3e76c4f

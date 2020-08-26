@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Id,LotArea,OverallQual,YearBuilt,RoofStyle,TotalBsmtSF,CentralAir,1stFlrSF,2ndFlrSF,FullBath,HalfBath,BedroomAbvGr,KitchenAbvGr,TotRmsAbvGrd,GarageCars,GarageArea
 1461,11622,5,1961,Gable,882.0,Y,896,0,1,0,2,1,5,1.0,730.0
 1462,14267,6,1958,Hip,1329.0,Y,1329,0,1,1,3,1,6,1.0,312.0
@@ -1459,6 +1460,11 @@ Id,LotArea,OverallQual,YearBuilt,RoofStyle,TotalBsmtSF,CentralAir,1stFlrSF,2ndFl
 2917,20000,5,1960,Gable,1224.0,Y,1224,0,1,0,4,1,7,2.0,576.0
 2918,10441,5,1992,Gable,912.0,Y,970,0,1,0,3,1,6,0.0,0.0
 2919,9627,7,1993,Gable,996.0,Y,996,1004,2,1,3,1,9,3.0,650.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bd5420d64d541c663ee27681928fc4ad7ea7d3c38d7fbcb60cea88b34eeeb5e
+size 86192
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:5bd5420d64d541c663ee27681928fc4ad7ea7d3c38d7fbcb60cea88b34eeeb5e

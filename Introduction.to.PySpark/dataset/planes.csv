@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "tailnum","year","type","manufacturer","model","engines","seats","speed","engine"
 "N102UW",1998,"Fixed wing multi engine","AIRBUS INDUSTRIE","A320-214",2,182,NA,"Turbo-fan"
 "N103US",1999,"Fixed wing multi engine","AIRBUS INDUSTRIE","A320-214",2,182,NA,"Turbo-fan"
@@ -2628,6 +2629,11 @@
 "N986CA",NA,"Fixed wing multi engine","CANADAIR","CL-600-2B19",2,55,NA,"Turbo-fan"
 "N986SW",2004,"Fixed wing multi engine","BOMBARDIER INC","CL-600-2B19",2,55,NA,"Turbo-fan"
 "N988CA",1997,"Fixed wing multi engine","CANADAIR","CL-600-2B19",2,55,NA,"Turbo-fan"
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7c22d0fd1cefafbf4e41a08112a323124ea40623288caac627de023d884a659
+size 219326
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:e7c22d0fd1cefafbf4e41a08112a323124ea40623288caac627de023d884a659

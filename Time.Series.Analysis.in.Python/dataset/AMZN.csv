@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Date,Adj Close
 5/15/1997,1.958333
 5/16/1997,1.729167
@@ -5088,6 +5089,11 @@ Date,Adj Close
 7/31/2017,987.780029
 8/1/2017,996.190002
 8/2/2017,995.890015
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4e9fc278b0c2bbae0ce8a397816b7d084c391111cb54bdf51dce33f0538eaad
+size 97155
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:a4e9fc278b0c2bbae0ce8a397816b7d084c391111cb54bdf51dce33f0538eaad

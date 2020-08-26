@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 shot_id,game_id,lat,lon,minutes_remaining,playoffs,season,shot_distance,shot_type,shot_made_flag
 2,20000012,34.0443,-118.4268,10,0,2000-01,15,2PT Field Goal,0.0
 3,20000012,33.9093,-118.3708,7,0,2000-01,16,2PT Field Goal,1.0
@@ -10000,6 +10001,11 @@ shot_id,game_id,lat,lon,minutes_remaining,playoffs,season,shot_distance,shot_typ
 11932,20700363,34.0183,-118.3768,10,0,2007-08,11,2PT Field Goal,0.0
 11933,20700363,33.9533,-118.1058,6,0,2007-08,18,2PT Field Goal,0.0
 11934,20700363,33.8683,-118.4558,6,0,2007-08,25,3PT Field Goal,0.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e5651c96d034e62513fd5e0df5961cb375f8706232c06b2476fdf42ac45cf5b
+size 658707
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:2e5651c96d034e62513fd5e0df5961cb375f8706232c06b2476fdf42ac45cf5b

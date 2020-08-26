@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 id,name,rgb,is_trans
 -1,Unknown,0033B2,f
 0,Black,05131D,f
@@ -135,6 +136,11 @@ id,name,rgb,is_trans
 1006,Trans Light Royal Blue,B4D4F7,t
 1007,Reddish Lilac,8E5597,f
 9999,[No Color],05131D,f
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:4766eb485ab9abac18fa75681400618d4d9aa3492ffb7da853bc4a36eb001cf3
+size 3533
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:4766eb485ab9abac18fa75681400618d4d9aa3492ffb7da853bc4a36eb001cf3

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,time,data_values
 0,2010-01-04,214.009998
 1,2010-01-05,214.379993
@@ -1762,6 +1763,11 @@
 1759,2016-12-28,116.760002
 1760,2016-12-29,116.730003
 1761,2016-12-30,115.82
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:302382047be8804fb8db3a7bf3163fc969aaab55e2a52f915398aeb6325c6e83
+size 46830
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:302382047be8804fb8db3a7bf3163fc969aaab55e2a52f915398aeb6325c6e83

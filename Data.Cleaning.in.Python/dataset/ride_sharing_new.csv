@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,duration,station_A_id,station_A_name,station_B_id,station_B_name,bike_id,user_type,user_birth_year,user_gender
 0,12 minutes,81,Berry St at 4th St,323,Broadway at Kearny,5480,2,1959,Male
 1,24 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1965,Male
@@ -25760,6 +25761,11 @@
 25757,14 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),42,San Francisco City Hall (Polk St at Grove St),5157,2,1995,Male
 25758,14 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),42,San Francisco City Hall (Polk St at Grove St),4438,2,1995,Male
 25759,29 minutes,16,Steuart St at Market St,115,Jackson Playground,1705,3,1990,Male
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:275244bfe2a27c5a232e9fc2f1b0389037ba5c1883566072632035c131dcd9c3
+size 2801849
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:275244bfe2a27c5a232e9fc2f1b0389037ba5c1883566072632035c131dcd9c3

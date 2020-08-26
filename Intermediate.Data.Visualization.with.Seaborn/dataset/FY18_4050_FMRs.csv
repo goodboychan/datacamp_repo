@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 fips2010,fmr_0,fmr_1,fmr_2,fmr_3,fmr_4,state,metro_code,areaname,county,cousub,countyname,county_town_name,pop2010,acs_2017_2,state_alpha,fmr_type,metro,fmr_pct_chg,fmr_dollar_chg
 100199999,588,691,829,1055,1451,1,METRO33860M33860,"Montgomery, AL MSA",1,99999,Autauga County,Autauga County,54571.0,822,AL,40,1,0.00851581508515815,7
 100399999,729,762,879,1280,1471,1,METRO19300M19300,"Daphne-Fairhope-Foley, AL MSA",3,99999,Baldwin County,Baldwin County,182265.0,977,AL,40,1,-0.100307062436029,-98
@@ -4769,6 +4770,11 @@ fips2010,fmr_0,fmr_1,fmr_2,fmr_3,fmr_4,state,metro_code,areaname,county,cousub,c
 7801099999,735,750,916,1148,1248,78,NCNTY78010N78010,"St. Croix Island, VI",10,99999,St. Croix,St. Croix,53234.0,910,VI,40,0,0.00659340659340659,6
 7802099999,977,1158,1439,1804,1960,78,NCNTY78020N78020,"St. John Island, VI",20,99999,St. John,St. John,4197.0,1430,VI,40,0,0.00629370629370629,9
 7803099999,703,848,1061,1330,1445,78,NCNTY78030N78030,"St. Thomas Island, VI",30,99999,St. Thomas,St. Thomas,51181.0,1054,VI,40,0,0.00664136622390892,7
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:9971b3040178ca8969b61fa61498a3257e5eb354a8bc4cd4fb08354aca420c16
+size 775055
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:9971b3040178ca8969b61fa61498a3257e5eb354a8bc4cd4fb08354aca420c16

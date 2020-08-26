@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 x,y,objectid_1,objectid,bldg_id,bldg_name,address,city,zipcode,csp_sch_id,sch_id,sch_name,sch_label,sch_type,shared,complex,label,tlt,pl,point_x,point_y
 -71.00412057520259,42.38879868107347,1,1,1,Guild Bldg,195 Leyden Street,East Boston,2128,4061,4061,Guild Elementary,Guild,ES,,,52,3,Grace,790128.152748,2967094.37762
 -71.03048029238414,42.378545298399885,2,2,3,"Kennedy, P Bldg",343 Saratoga Street,East Boston,2128,4541,4541,Kennedy Patrick Elem,PJ Kennedy,ES,,,72,3,Grace,783027.745829,2963317.53394
@@ -132,6 +133,11 @@ x,y,objectid_1,objectid,bldg_id,bldg_name,address,city,zipcode,csp_sch_id,sch_id
 -71.06814953601999,42.34876970981879,129,2938,0,Church Street Bldg,20 Church Street,Boston,2116,1215,1215,Boston Adult Tech Acad,BATA,Special,,,8,4,Freddie,772904.812815,2952412.93842
 -71.14596105872063,42.350440724681775,130,2946,139,Taft Bldg,20 Warren Street,Brighton,2135,1470,1470,Boston Green Academy,Boston Green Academy,6/7-12,,,11,4,Jonathan,751868.3851020001,2952924.99053
 -71.08050441034351,42.32615284709589,131,3346,150,Dearborn Bldg,35 Greenville Street,Roxbury,2119,1260,1260,Dearborn Academy,Dearborn Academy,6/7-12,,,31,4,Anthony,769605.963,2944154.655
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:702b75339e8545cb6c9ad11eabe39c781b58e8261df7d13426b1acfb69d20d9e
+size 24444
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:702b75339e8545cb6c9ad11eabe39c781b58e8261df7d13426b1acfb69d20d9e

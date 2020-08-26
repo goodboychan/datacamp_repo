@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Top-Left,Top-Middle,Top-Right,Middle-Left,Middle-Middle,Middle-Right,Bottom-Left,Bottom-Middle,Bottom-Right,Class
 x,x,x,x,o,o,x,o,o,positive
 x,x,x,x,o,o,o,x,o,positive
@@ -958,6 +959,11 @@ o,x,o,x,x,o,x,o,x,negative
 o,x,o,x,o,x,x,o,x,negative
 o,x,o,o,x,x,x,o,x,negative
 o,o,x,x,x,o,o,x,x,negative
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:74501ffc43d50c45b0c384242c98a4cf94d4a0ef1e433127c2e3d6bff6ebddd8
+size 26937
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:74501ffc43d50c45b0c384242c98a4cf94d4a0ef1e433127c2e3d6bff6ebddd8

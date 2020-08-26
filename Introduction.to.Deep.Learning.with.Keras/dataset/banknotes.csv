@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 variace,skewness,curtosis,entropy,class
 3.6216,8.6661,-2.8073,-0.44699,0
 4.5459,8.1674,-2.4586,-1.4621,0
@@ -1372,6 +1373,11 @@ variace,skewness,curtosis,entropy,class
 -3.7503,-13.4586,17.5932,-2.7771,1
 -3.5637,-8.3827,12.393,-1.2823,1
 -2.5419,-0.65804,2.6842,1.1952,1
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:efd403db8c91b250e16ed31ef4224f9b388703786539f7b461f91f55b66b6b0e
+size 46441
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:efd403db8c91b250e16ed31ef4224f9b388703786539f7b461f91f55b66b6b0e

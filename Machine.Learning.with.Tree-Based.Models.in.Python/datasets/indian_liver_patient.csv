@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Age,Gender,Total_Bilirubin,Direct_Bilirubin,Alkaline_Phosphotase,Alamine_Aminotransferase,Aspartate_Aminotransferase,Total_Protiens,Albumin,Albumin_and_Globulin_Ratio,Dataset
 65,Female,0.7,0.1,187,16,18,6.8,3.3,0.9,1
 62,Male,10.9,5.5,699,64,100,7.5,3.2,0.74,1
@@ -583,6 +584,11 @@ Age,Gender,Total_Bilirubin,Direct_Bilirubin,Alkaline_Phosphotase,Alamine_Aminotr
 52,Male,0.8,0.2,245,48,49,6.4,3.2,1,1
 31,Male,1.3,0.5,184,29,32,6.8,3.4,1,1
 38,Male,1,0.3,216,21,24,7.3,4.4,1.5,2
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0deaf3f8b1923a7a8bca4c5c6bd93f0db74f571c40675b7043fe88f3f7cd4fc
+size 23930
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:b0deaf3f8b1923a7a8bca4c5c6bd93f0db74f571c40675b7043fe88f3f7cd4fc

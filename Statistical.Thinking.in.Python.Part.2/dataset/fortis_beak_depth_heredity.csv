@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mid-offspr,Male BD,Female BD
 10.7,10.9,9.3
 9.78,10.7,8.4
@@ -413,6 +414,11 @@ Mid-offspr,Male BD,Female BD
 9.5,8.85,8.7
 8.2,9.3,7.7
 8.8,9.4,9.4
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d01262fdc63436f90c7b027c818e8e2d8a41a600089d8d2976ffbdffca622c7
+size 5881
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:1d01262fdc63436f90c7b027c818e8e2d8a41a600089d8d2976ffbdffca622c7

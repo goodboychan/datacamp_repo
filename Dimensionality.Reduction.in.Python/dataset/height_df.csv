@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 weight_kg,height_1,height_2,height_3
 81.5,1.78,1.8,1.8
 72.6,1.7,1.7,1.69
@@ -100,6 +101,11 @@ weight_kg,height_1,height_2,height_3
 79.7,1.7,1.72,1.71
 74.4,1.79,1.79,1.81
 96.8,1.76,1.76,1.77
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:8852f4573f50cf1060dd0edf8450b9d3987d3b62969f872e4cb97cb8c14ec436
+size 2011
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:8852f4573f50cf1060dd0edf8450b9d3987d3b62969f872e4cb97cb8c14ec436

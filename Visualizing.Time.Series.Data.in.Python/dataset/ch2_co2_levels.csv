@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 datestamp,co2
 1958-03-29,316.1
 1958-04-05,317.3
@@ -2284,6 +2285,11 @@ datestamp,co2
 2001-12-15,371.2
 2001-12-22,371.3
 2001-12-29,371.5
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebdff9a6b13b4b1d88c3c3c6dbc7822bf503044322765f91eb36f1137b4e85b5
+size 38547
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:ebdff9a6b13b4b1d88c3c3c6dbc7822bf503044322765f91eb36f1137b4e85b5

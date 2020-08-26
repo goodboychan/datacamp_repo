@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,savings
 1955-01-01,4.9
 1955-04-01,5.2
@@ -102,6 +103,11 @@ date,savings
 1979-10-01,4.7
 1980-01-01,5.0
 1980-04-01,5.4
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a9597c35b329d1bdc79fc4beaa49b11e4914f70c29c72f9766626ac09f7bfa
+size 1542
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:75a9597c35b329d1bdc79fc4beaa49b11e4914f70c29c72f9766626ac09f7bfa

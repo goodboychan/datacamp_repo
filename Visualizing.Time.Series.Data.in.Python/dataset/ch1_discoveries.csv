@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,Y
 01-01-1860,5
 01-01-1861,3
@@ -100,6 +101,11 @@ date,Y
 01-01-1957,0
 01-01-1958,2
 01-01-1959,0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:695041e1640165bd7c7794af249a3d77dc7bb6c9cd93e8a4f507e3d4392e2159
+size 1309
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:695041e1640165bd7c7794af249a3d77dc7bb6c9cd93e8a4f507e3d4392e2159

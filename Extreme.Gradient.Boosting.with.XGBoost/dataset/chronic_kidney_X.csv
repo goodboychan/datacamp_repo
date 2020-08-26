@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 age,bp,sg,al,su,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,rbc,pc,pcc,ba,htn,dm,cad,appet,pe,ane
 48.0,80.0,1.02,1.0,0.0,121.0,36.0,1.2,,,15.4,44.0,7800.0,5.2,,normal,notpresent,notpresent,yes,yes,no,good,no,no
 7.0,50.0,1.02,4.0,0.0,,18.0,0.8,,,11.3,38.0,6000.0,,,normal,notpresent,notpresent,no,no,no,good,no,no
@@ -400,6 +401,11 @@ age,bp,sg,al,su,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,rbc,pc,pcc,ba,htn,dm,cad,appet,
 12.0,80.0,1.02,0.0,0.0,100.0,26.0,0.6,137.0,4.4,15.8,49.0,6600.0,5.4,normal,normal,notpresent,notpresent,no,no,no,good,no,no
 17.0,60.0,1.025,0.0,0.0,114.0,50.0,1.0,135.0,4.9,14.2,51.0,7200.0,5.9,normal,normal,notpresent,notpresent,no,no,no,good,no,no
 58.0,80.0,1.025,0.0,0.0,131.0,18.0,1.1,141.0,3.5,15.8,53.0,6800.0,6.1,normal,normal,notpresent,notpresent,no,no,no,good,no,no
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f8432c61b104c50ec36937eaa2f76914a083ef2fdbe02883b5a6e49800f492f
+size 46232
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:8f8432c61b104c50ec36937eaa2f76914a083ef2fdbe02883b5a6e49800f492f

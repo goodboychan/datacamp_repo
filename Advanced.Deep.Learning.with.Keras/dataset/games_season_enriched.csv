@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 season,team_1,team_2,home,seed_diff,score_diff,score_1,score_2,won,pred
 1985,288,73,0,-3,-9,41,50,0,-3.60145230960554
 1985,5929,73,0,4,6,61,55,1,0.474164250835699
@@ -4234,6 +4235,11 @@ season,team_1,team_2,home,seed_diff,score_diff,score_1,score_2,won,pred
 2017,2910,10818,0,8,-25,66,91,0,6.24430081853005
 2017,3300,10818,0,10,24,83,59,1,11.3074310680768
 2017,4973,10818,0,5,-11,65,76,0,-1.12591353790556
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:82c5a90478626bd08574de152e4811547019a3e3e787c0b81c9ab55c0e38d6bc
+size 204355
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:82c5a90478626bd08574de152e4811547019a3e3e787c0b81c9ab55c0e38d6bc

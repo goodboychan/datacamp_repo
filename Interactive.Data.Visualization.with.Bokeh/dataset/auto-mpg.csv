@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 mpg,cyl,displ,hp,weight,accel,yr,origin,name,color,size
 18.0,6,250.0,88,3139,14.5,71,US,ford mustang,blue,15.0
 9.0,8,304.0,193,4732,18.5,70,US,hi 1200d,blue,20.0
@@ -392,6 +393,11 @@ mpg,cyl,displ,hp,weight,accel,yr,origin,name,color,size
 29.5,4,98.0,68,2135,16.6,78,Asia,honda accord lx,red,10.0
 17.5,6,250.0,110,3520,16.4,77,US,chevrolet concours,blue,15.0
 25.1,4,140.0,88,2720,15.4,78,US,ford fairmont (man),blue,10.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:91a24f11a12e89524767fcf7e174d29347f84b049c693b6a1ce9c74641a5fa0e
+size 23712
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:91a24f11a12e89524767fcf7e174d29347f84b049c693b6a1ce9c74641a5fa0e

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 pool_drownings,nuclear_energy
 421,728.3
 465,753.9
@@ -11,6 +12,11 @@ pool_drownings,nuclear_energy
 582,806.4
 605,806.2
 603,798.9
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:62e47f1eaa673bab1ac17dd77cd439f53a828bcb9c7ee961287521b507a627de
+size 139
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:62e47f1eaa673bab1ac17dd77cd439f53a828bcb9c7ee961287521b507a627de

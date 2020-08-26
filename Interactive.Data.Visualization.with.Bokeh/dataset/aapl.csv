@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,date,price
 0,2000-03-01,31.68
 1,2000-03-02,29.66
@@ -3270,6 +3271,11 @@
 3267,2013-02-27,438.75
 3268,2013-02-28,435.62
 3269,2013-03-01,424.83
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b3eb86fc7eb0fa775dbcf18c846fe17cc4463b178d7ebbb1483030b6a103c13
+size 71352
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:8b3eb86fc7eb0fa775dbcf18c846fe17cc4463b178d7ebbb1483030b6a103c13

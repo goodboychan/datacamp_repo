@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 state,pop_est_2014
 Alabama,4849377
 Alaska,736732
@@ -51,6 +52,11 @@ Washington,7061530
 West Virginia,1850326
 Wisconsin,5757564
 Wyoming,584153
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:956a3a1a36845c782cd0506253c79a59ca1528dce67431de0083ef7db6a2c1e4
+size 921
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:956a3a1a36845c782cd0506253c79a59ca1528dce67431de0083ef7db6a2c1e4

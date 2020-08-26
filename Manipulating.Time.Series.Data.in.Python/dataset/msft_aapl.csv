@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,AAPL,MSFT
 2007-01-03,11.97,29.86
 2007-01-04,12.24,29.81
@@ -2517,6 +2518,11 @@ date,AAPL,MSFT
 2016-12-28,116.76,62.99
 2016-12-29,116.73,62.9
 2016-12-30,115.82,62.14
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:1aec5a6c0c520c7ee1e7891f0b10609aea3d33bb73dd14bb5fe4d49f5cf45d38
+size 57824
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:1aec5a6c0c520c7ee1e7891f0b10609aea3d33bb73dd14bb5fe4d49f5cf45d38

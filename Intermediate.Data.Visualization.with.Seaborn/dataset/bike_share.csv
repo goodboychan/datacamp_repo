@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dteday,season,yr,mnth,holiday,weekday,workingday,weathersit,temp,atemp,hum,windspeed,casual,registered,total_rentals
 2011-01-01,1,0,1,0,6,0,2,0.344167,0.363625,0.805833,0.160446,331,654,985
 2011-01-02,1,0,1,0,0,0,2,0.363478,0.35373899999999997,0.696087,0.24853899999999998,131,670,801
@@ -731,6 +732,11 @@ dteday,season,yr,mnth,holiday,weekday,workingday,weathersit,temp,atemp,hum,winds
 2012-12-29,1,1,12,0,6,0,2,0.253333,0.2424,0.7529170000000001,0.124383,159,1182,1341
 2012-12-30,1,1,12,0,0,0,1,0.255833,0.2317,0.483333,0.350754,364,1432,1796
 2012-12-31,1,1,12,0,1,1,2,0.215833,0.223487,0.5775,0.154846,439,2290,2729
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd1763d90d675db349964671b7d6a2499746bc999fcebc32e5f900889c78ef7
+size 57349
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:8fd1763d90d675db349964671b7d6a2499746bc999fcebc32e5f900889c78ef7

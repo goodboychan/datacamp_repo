@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 DATE,DJIA
 2010-01-04,100.0
 2010-01-05,99.88718778226676
@@ -1762,6 +1763,11 @@ DATE,DJIA
 2016-12-28,187.39375432257873
 2016-12-29,187.26242351633982
 2016-12-30,186.72217204146654
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c3034c3fd02d0af0edf5b654d9fe1172a6ba0e3be74f3c1b46e1f46026669f9
+size 52284
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:1c3034c3fd02d0af0edf5b654d9fe1172a6ba0e3be74f3c1b46e1f46026669f9

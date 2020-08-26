@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Growth curve data from Bacillus subtilis under restrictive growth conditions.
 # Computed from fluorescence microscopy images acquired by Jin Park in Michael Elowitz's lab at Caltech using image processing code written by Justin Bois.
 bacterial area (sq. microns),time (hr)
@@ -57,6 +58,11 @@ bacterial area (sq. microns),time (hr)
 104.27666624999999,13.0
 110.862342,13.25
 118.31751,13.5
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ef0f103cb84a9dd26b367b4d515da2392a415699e8b0d97656de636312225c
+size 1230
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:f2ef0f103cb84a9dd26b367b4d515da2392a415699e8b0d97656de636312225c

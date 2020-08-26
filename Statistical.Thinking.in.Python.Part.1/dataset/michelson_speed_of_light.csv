@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,date,distinctness of image,temperature (F),position of deflected image,position of slit,displacement of image in divisions,difference between greatest and least,B,Cor,revolutions per second,radius (ft),value of one turn of screw,velocity of light in air (km/s),remarks
 0,June  5,3,76,114.85,0.3,114.55,0.17,1.423,-0.132,257.36,28.671999999999997,0.9961399999999999,299850,Electric light.
 1,   June  7,2,72,114.64,0.07400000000000001,114.56,0.10,1.5330000000000001,-0.084,257.52,28.655,0.9961399999999999,299740,P.M. Frame inclined at various angles
@@ -100,6 +101,11 @@
 97,   July  2,3,86,66.74,0.4, 66.34,0.03,1.45,-0.252,128.63,33.205,0.9958600000000001,299800,P.M. Mirror erect.
 98,   July  2,3,86,50.16,0.4, 47.96,0.07,1.4669999999999999,-0.252, 96.48,33.205,0.9958,299810,P.M. Mirror erect.
 99,   July  2,3,85,33.57,0.4, 33.17,0.06,1.45,-0.24, 64.32,33.205,0.99574,299870,P.M. Mirror erect.
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cbdc106656d3d561073a326ba10fe85012242b35986ca110309a33726dee9f4
+size 12203
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:0cbdc106656d3d561073a326ba10fe85012242b35986ca110309a33726dee9f4

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 year,month,day,dep_time,dep_delay,arr_time,arr_delay,carrier,tailnum,flight,origin,dest,air_time,distance,hour,minute
 2014,12,8,658,-7,935,-5,VX,N846VA,1780,SEA,LAX,132,954,6,58
 2014,1,22,1040,5,1505,5,AS,N559AS,851,SEA,HNL,360,2677,10,40
@@ -10000,6 +10001,11 @@ year,month,day,dep_time,dep_delay,arr_time,arr_delay,carrier,tailnum,flight,orig
 2014,8,8,904,-1,1042,-5,AS,N523AS,360,SEA,SMF,81,605,9,4
 2014,8,29,1441,26,1820,10,WN,N8647A,2857,SEA,ABQ,133,1180,14,41
 2014,7,13,1702,-3,1950,-10,DL,N583NW,2237,SEA,HNL,332,2677,17,2
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb69467826b04bc72a3ec8be24672f55741e15e30608ed2c1d7f6566d30cb02
+size 614174
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:acb69467826b04bc72a3ec8be24672f55741e15e30608ed2c1d7f6566d30cb02

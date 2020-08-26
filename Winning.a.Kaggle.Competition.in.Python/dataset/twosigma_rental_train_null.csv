@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 id,bathrooms,bedrooms,building_id,latitude,longitude,manager_id,price,interest_level
 10,1.5,3,53a5b119ba8f7b61d4e010512e0dfc85,40.7145,-73.9425,5ba989232d0489da1b5f2c45f6688adc,3000.0,medium
 10000,1.0,2,c5c8a357cba207596b04d1afd1e4f130,40.7947,-73.9667,7533621a882f71e25173b27e3139d83d,5465.0,low
@@ -1000,6 +1001,11 @@ id,bathrooms,bedrooms,building_id,latitude,longitude,manager_id,price,interest_l
 10224,1.0,0,b7eb566cf478a2ca43e3c5940884f659,40.69,-73.9919,d5d246c9d9d4e7079e5a0fc962d2f1a7,2780.0,low
 102240,1.0,1,d2f4802257b2c172e82e42ef0cb78699,40.715,-73.9917,c70dac1e7841801c3f8257de18f21561,2200.0,medium
 102241,2.0,3,a9015a61c49b2c421aa0a1e296ea6f2b,40.6808,-73.9374,4e8a439d7b58f88f4f99e322c9ca9b67,2625.0,medium
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:933a070f13044d029b527fe3da29ab9d439747c5a148b43ec27d62ed3cddf2a8
+size 102127
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:933a070f13044d029b527fe3da29ab9d439747c5a148b43ec27d62ed3cddf2a8

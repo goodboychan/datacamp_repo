@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,name,city,county,state,lat,lon,months_open,Bakedgoods,Beans,Cheese,Coffee,Crafts,Eggs,Flowers,Fruits,Grains,Herbs,Honey,Jams,Juices,Maple,Meat,Mushrooms,Nursery,Nuts,PetFood,Plants,Poultry,Prepared,Seafood,Soap,Tofu,Trees,Vegetables,WildHarvested,Wine,num_items_sold,state_pop
 0,Island Market,Key Largo,Monroe,Florida,-80.4272178,25.1092141,6,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,18,19893297.0
 1,COFFO Harvest Farmers' Market,Florida City,Miami-Dade,Florida,-80.482299,25.44985,12,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0,7,19893297.0
@@ -5343,6 +5344,11 @@
 5340,East Goshen Farmers Market,West Chester,Chester,Pennsylvania,,,6,1,0,1,0,0,1,1,0,0,1,1,1,0,1,1,0,1,1,0,1,1,1,0,1,0,0,1,0,0,16,12787209.0
 5341,Farm Fresh Mobile Market,,,New York,,,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,19746227.0
 5342,Osage Nation Sr. Farmers Market,,,Oklahoma,,,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3878051.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd7c5686c5f51324025471fa2540ea7e2d0857bfcbbac29312fe428b17b30f29
+size 853696
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:cd7c5686c5f51324025471fa2540ea7e2d0857bfcbbac29312fe428b17b30f29

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 0
 False
 False
@@ -898,6 +899,11 @@ False
 False
 False
 False
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:688710c7dc4088984da7ef4a487b6be9d844ee930a6558b7a851e7a59e1c12b4
+size 5297
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:688710c7dc4088984da7ef4a487b6be9d844ee930a6558b7a851e7a59e1c12b4

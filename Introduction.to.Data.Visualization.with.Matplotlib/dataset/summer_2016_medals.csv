@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,Unnamed: 0,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal
 8,158,62,Giovanni Abagnale,M,21.0,198.0,90.0,Italy,ITA,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,Bronze
 9,161,65,Patimat Abakarova,F,21.0,165.0,49.0,Azerbaijan,AZE,2016 Summer,2016,Summer,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,Bronze
@@ -2014,6 +2015,11 @@
 13654,270281,135205,Shakhobiddin Shokirovich Zoirov,M,23.0,169.0,52.0,Uzbekistan,UZB,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Flyweight,Gold
 13659,270370,135245,Milenko Zori,M,27.0,179.0,73.0,Serbia,SRB,2016 Summer,2016,Summer,Rio de Janeiro,Canoeing,"Canoeing Men's Kayak Doubles, 1,000 metres",Silver
 13682,271019,135525,Martin Zwicker,M,29.0,175.0,64.0,Germany,GER,2016 Summer,2016,Summer,Rio de Janeiro,Hockey,Hockey Men's Hockey,Bronze
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:4989b9f4a88d1a697d005fefd24e10f6172aaa71ac51582295565dcf77970d6e
+size 314540
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:4989b9f4a88d1a697d005fefd24e10f6172aaa71ac51582295565dcf77970d6e

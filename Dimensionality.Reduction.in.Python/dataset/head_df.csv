@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 headbreadth,headcircumference,headlength,tragiontopofhead,n_hairs,measurement_error
 150,583,206,140,100016.24345363663,0.1
 146,568,201,120,99993.8824358635,0.1
@@ -6068,6 +6069,11 @@ headbreadth,headcircumference,headlength,tragiontopofhead,n_hairs,measurement_er
 144,559,190,127,100006.58981223592,0.1
 149,558,186,135,99994.32823879976,0.1
 148,561,189,130,100001.74703398962,0.1
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:34a6d26069ce4e5301c8757e53a57af082de51c3638d762a429fbc3d559a8851
+size 232742
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:34a6d26069ce4e5301c8757e53a57af082de51c3638d762a429fbc3d559a8851

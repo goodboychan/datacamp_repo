@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 city,year,month,day,CO,NO2,O3,SO2
 Cincinnati,2012,1,1,0.245,20,0.03,4.199999999999999
 Cincinnati,2012,1,2,0.185,9,0.025,6.35
@@ -8888,6 +8889,11 @@ Vandenberg Air Force Base,2015,12,362,0.3,1,0.039,0.5
 Vandenberg Air Force Base,2015,12,363,0.3,1,0.037,0.65
 Vandenberg Air Force Base,2015,12,364,0.3,1,0.038,0.65
 Vandenberg Air Force Base,2015,12,365,0.3,1,0.039,0.65
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:99d50d254f68bc6f83db06bb233ade0d4ff0b4ffcadd0fe5aedb1fef91de2314
+size 427680
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:99d50d254f68bc6f83db06bb233ade0d4ff0b4ffcadd0fe5aedb1fef91de2314

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,pounds_per_cow
 1962-01-01,589.0
 1962-02-01,561.0
@@ -168,6 +169,11 @@ date,pounds_per_cow
 1975-10-01,827.0
 1975-11-01,797.0
 1975-12-01,843.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:40720d9e7bcf3971849bf7d05a04720e0950a2a56d466483dcf1766a753a29a4
+size 2876
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:40720d9e7bcf3971849bf7d05a04720e0950a2a56d466483dcf1766a753a29a4

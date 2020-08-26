@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 state,county,total_votes,dem_votes,rep_votes,dem_share
 PA,Erie County,127691,75775,50351,60.08
 PA,Bradford County,25787,10306,15057,40.64
@@ -222,6 +223,11 @@ OH,Highland County,19186,6856,11907,36.54
 OH,Hocking County,12961,6259,6364,49.58
 OH,Licking County,82356,33932,46918,41.97
 OH,Madison County,17454,6532,10606,38.11
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:77715b3ace7bdd012516ed0e2850d019e4c9539cf8c645bdc2238baa213034ed
+size 9291
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:77715b3ace7bdd012516ed0e2850d019e4c9539cf8c645bdc2238baa213034ed

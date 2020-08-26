@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 state,county,total_votes,dem_votes,rep_votes,other_votes,dem_share,east_west
 AK,"State House District 8, Denali-University",10320,4995,4983,342,50.06,west
 AK,"State House District 37, Bristol Bay-Aleuti",4665,1868,2661,136,41.24,west
@@ -3153,6 +3154,11 @@ OH,Highland County,19186,6856,11907,423,36.54,east
 OH,Hocking County,12961,6259,6364,338,49.58,east
 OH,Licking County,82356,33932,46918,1506,41.97,east
 OH,Madison County,17454,6532,10606,316,38.11,east
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ced6c09fb59ce2aa0f8b915c22a768d27c35294a8395bca7ea6ad6e18102120
+size 155123
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:9ced6c09fb59ce2aa0f8b915c22a768d27c35294a8395bca7ea6ad6e18102120

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 date,people_employed
 1978-01-01,5985.7
 1978-02-01,6040.6
@@ -159,6 +160,11 @@ date,people_employed
 1991-01-01,7739.3
 1991-02-01,7746.5
 1991-03-01,7750.5
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1baf1583377e06d94a8cd39e65362c45299e6d546c12afce2cba70775cf415a
+size 2882
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:b1baf1583377e06d94a8cd39e65362c45299e6d546c12afce2cba70775cf415a

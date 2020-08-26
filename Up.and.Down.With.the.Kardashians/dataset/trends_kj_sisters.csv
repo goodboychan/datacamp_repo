@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Month,Kim Kardashian: (Worldwide),Khloé Kardashian: (Worldwide),Kourtney Kardashian: (Worldwide),Kendall Jenner: (Worldwide),Kylie Jenner: (Worldwide)
 2007-01,2,<1,<1,<1,2
 2007-02,12,<1,<1,<1,2
@@ -147,6 +148,11 @@ Month,Kim Kardashian: (Worldwide),Khloé Kardashian: (Worldwide),Kourtney Kardas
 2019-01,14,3,2,4,10
 2019-02,13,9,2,4,14
 2019-03,12,10,2,3,16
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:acf9de16c22c622fd2ae4876544c8079ac00b3025ed39a2aa3721ce6f86c9955
+size 3225
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:acf9de16c22c622fd2ae4876544c8079ac00b3025ed39a2aa3721ce6f86c9955

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 super_bowl,network,avg_us_viewers,total_us_viewers,rating_household,share_household,rating_18_49,share_18_49,ad_cost
 52,NBC,103390000,,43.1,68,33.4,78,5000000
 51,Fox,111319000,172000000,45.3,73,37.1,79,5000000
@@ -53,6 +54,11 @@ super_bowl,network,avg_us_viewers,total_us_viewers,rating_household,share_househ
 2,CBS,39120000,,36.8,68,,,54500
 1,CBS,26750000,51180000,22.6,43,,,42500
 1,NBC,24430000,,18.5,36,,,37500
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f111ac42f1c00af77ed67578071d4ca5aa2d27b4312505eefd935dc604067c6
+size 2178
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:7f111ac42f1c00af77ed67578071d4ca5aa2d27b4312505eefd935dc604067c6

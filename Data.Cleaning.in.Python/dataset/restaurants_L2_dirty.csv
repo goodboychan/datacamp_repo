@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,name,addr,city,phone,type
 0,kokomo,6333 w. third st.,la,2139330773,american
 1,feenix, 8358 sunset blvd. west ,hollywood,2138486677,american
@@ -82,6 +83,11 @@
 79,matsuhissa, 129 n. la cienega blvd. ,beverly hills,3106599639,asian
 80,jiraffe,502 santa monica blvd,santa monica,3109176671,californian
 81,martha's,22nd street grill 25 22nd,st. hermosa beach,3103767786,american
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac2bb35b25bc183c9511aa60e4bf7c27fbbb22350fbd9dbfc2d16cbf97aac7f0
+size 5208
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:ac2bb35b25bc183c9511aa60e4bf7c27fbbb22350fbd9dbfc2d16cbf97aac7f0

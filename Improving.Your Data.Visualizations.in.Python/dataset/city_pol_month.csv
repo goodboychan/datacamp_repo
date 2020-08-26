@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,city_pol,month,value
 0,Cincinnati CO,2,-0.4707910917485493
 1,Cincinnati CO,3,-0.37174429072594417
@@ -312,6 +313,11 @@
 309,Vandenberg Air Force Base SO2,10,-0.8046258202647949
 310,Vandenberg Air Force Base SO2,11,-0.7897553304600451
 311,Vandenberg Air Force Base SO2,12,-0.765661025320183
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:fffdf222ddabdfbaa2b66f632c0326b2562fb27e0c69e960080e1f9dbe4c8f78
+size 13003
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:fffdf222ddabdfbaa2b66f632c0326b2562fb27e0c69e960080e1f9dbe4c8f78

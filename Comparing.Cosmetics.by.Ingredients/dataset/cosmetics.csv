@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Label,Brand,Name,Price,Rank,Ingredients,Combination,Dry,Normal,Oily,Sensitive
 Moisturizer,LA MER,Crème de la Mer,175,4.1,"Algae (Seaweed) Extract, Mineral Oil, Petrolatum, Glycerin, Isohexadecane, Microcrystalline Wax, Lanolin Alcohol, Citrus Aurantifolia (Lime) Extract, Sesamum Indicum (Sesame) Seed Oil, Eucalyptus Globulus (Eucalyptus) Leaf Oil, Sesamum Indicum (Sesame) Seed Powder, Medicago Sativa (Alfalfa) Seed Powder, Helianthus Annuus (Sunflower) Seedcake, Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal, Sodium Gluconate, Copper Gluconate, Calcium Gluconate, Magnesium Gluconate, Zinc Gluconate, Magnesium Sulfate, Paraffin, Tocopheryl Succinate, Niacin, Water, Beta-Carotene, Decyl Oleate, Aluminum Distearate, Octyldodecanol, Citric Acid, Cyanocobalamin, Magnesium Stearate, Panthenol, Limonene, Geraniol, Linalool, Hydroxycitronellal, Citronellol, Benzyl Salicylate, Citral, Sodium Benzoate, Alcohol Denat., Fragrance.",1,1,1,1,1
 Moisturizer,SK-II,Facial Treatment Essence,179,4.1,"Galactomyces Ferment Filtrate (Pitera), Butylene Glycol, Pentylene Glycol, Water, Sodium Benzoate, Methylparaben, Sorbic Acid.",1,1,1,1,1
@@ -1472,6 +1473,11 @@ Sun protect,KATE SOMERVILLE,Daily Deflector™ Waterlight Broad Spectrum SPF 50+
 Sun protect,VITA LIBERATA,Self Tan Dry Oil SPF 50,54,3.5,"Water, Dihydroxyacetone, Glycerin, Sclerocarya Birrea Seed Oil, Mica, Cymbopogon flexuosus (Lemongrass) oil, Cucumis Sativus (Cucumber) Extract, Citrus aurantium amara (Bitter orange) flower oil, Dimethyl isosorbide, Sodium Benzoate, Potassium Sorbate, Caramel, Tin oxide, CI 77491 (Iron oxides), Cocos Nucifera (Coconut) Oil, Gardenia Taitensis Flower Extract, Sorbitol, Sodium Citrate, Silica.",0,0,0,0,0
 Sun protect,ST. TROPEZ TANNING ESSENTIALS,Pro Light Self Tan Bronzing Mist,20,1.0,"Water, Dihydroxyacetone, Propylene Glycol, PPG-5-Ceteth-20, Glycerin, Ethoxydiglycol, Caramel, Phenoxyethanol, PEG-12 Dimethicone, Parfum (Fragrance), Sodium Metabisulfite, Tocopherol, Ethylhexylglycerin, Linalool, Alpha-isomethyl Ionone, CI 14700 (Red 4), CI 19140 (Yellow 5), CI 42090 (Blue 1).",0,0,0,0,0
 Sun protect,DERMAFLASH,DERMAPROTECT Daily Defense Broad Spectrum SPF 50+,45,0.0,Visit the DERMAFLASH boutique,1,1,1,1,1
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:37589163907b20bfdb6f1e3c610b789b35b15e80cce3ef687f0f65a502618857
+size 1149414
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
 =======
 version https://git-lfs.github.com/spec/v1
 oid sha256:37589163907b20bfdb6f1e3c610b789b35b15e80cce3ef687f0f65a502618857
