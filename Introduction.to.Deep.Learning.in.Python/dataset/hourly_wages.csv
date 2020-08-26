@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 wage_per_hour,union,education_yrs,experience_yrs,age,female,marr,south,manufacturing,construction
 5.1,0,8,21,35,1,1,0,1,0
 4.95,0,9,42,57,1,1,0,1,0
@@ -533,3 +534,8 @@ wage_per_hour,union,education_yrs,experience_yrs,age,female,marr,south,manufactu
 23.25,1,17,25,48,1,1,0,0,0
 19.88,1,12,13,31,0,1,1,0,0
 15.38,0,16,33,55,0,1,0,1,0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fd55080ae8e67ffe534e5ffba1f0e3a6b41e60c93da32f31d92c01318cf5a22
+size 13436
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

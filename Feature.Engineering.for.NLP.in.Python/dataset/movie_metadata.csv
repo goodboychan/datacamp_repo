@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unnamed: 0,id,title,overview,tagline
 0,49026,The Dark Knight Rises,"Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",The Legend Ends
 1,414,Batman Forever,"The Dark Knight of Gotham City confronts a dastardly duo: Two-Face and the Riddler. Formerly District Attorney Harvey Dent, Two-Face believes Batman caused the courtroom accident which left him disfigured on one side. And Edward Nygma, computer-genius and former employee of millionaire Bruce Wayne, is out to get the philanthropist; as The Riddler. Former circus acrobat Dick Grayson, his family killed by Two-Face, becomes Wayne's ward and Batman's new partner Robin.","Courage now, truth always..."
@@ -1007,3 +1008,8 @@ Unnamed: 0,id,title,overview,tagline
 1010,696,Manhattan,The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.,Woody Allen's New Comedy Hit
 1011,379,Miller's Crossing,"Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.","Up is down, black is white, and nothing is what it seems."
 1012,207,Dead Poets Society,"At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",He was their inspiration. He made their lives extraordinary.
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a10e07da6bf30e08ff6972f5126f2fa5bd4eb2dd8fa624aba37156b0f4258a
+size 390732
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

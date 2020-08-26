@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,fare_amount
 0,9.015
 1,8.580000000000005
@@ -9913,3 +9914,8 @@ id,fare_amount
 9911,48.7612
 9912,15.866999999999997
 9913,6.769999999999999
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:24cb7a23142ea61b345ef81a25f2fba2c672eb31c3396ee23216f11c3b286c8e
+size 205867
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

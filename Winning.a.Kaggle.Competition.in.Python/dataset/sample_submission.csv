@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,sales
 0,52
 1,52
@@ -44999,3 +45000,8 @@ id,sales
 44997,52
 44998,52
 44999,52
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:20d4e18080f2cead30d778b73a0c1c099165098bf0d26327fd137615e4647148
+size 393898
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

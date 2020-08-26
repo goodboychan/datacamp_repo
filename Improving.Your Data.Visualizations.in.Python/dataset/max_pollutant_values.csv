@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,city,year,pollutant,state,value,month,day
 0,Cincinnati,2012,CO,Ohio,1.1949999999999998,2,60
 1,Cincinnati,2012,NO2,Ohio,43.0,2,60
@@ -119,3 +120,8 @@
 117,Vandenberg Air Force Base,2015,NO2,California,8.0,12,365
 118,Vandenberg Air Force Base,2015,O3,California,0.061,12,365
 119,Vandenberg Air Force Base,2015,SO2,California,2.0,12,365
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:c557e040de4f450dfef492ec18bc1aa2d206855a330ac1c9860edd40b5e0553a
+size 5533
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,cleanliness,safety,satisfaction
 0,1351,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,2018-12-31,115.0,Clean,Neutral,Very satisfied
 1,373,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,2018-12-31,135.0,Clean,Very safe,Very satisfied
@@ -2476,3 +2477,8 @@
 2806,2684,Friday,UNITED,ORLANDO,East US,Hub,Gates 70-90,2018-12-31,91.9999999999999,Clean,Very safe,Very satisfied
 2807,2549,Tuesday,JETBLUE,LONG BEACH,West US,Small,Gates 1-12,2018-12-31,95.0,Clean,Somewhat safe,Very satisfied
 2808,2162,Saturday,CHINA EASTERN,QINGDAO,Asia,Large,Gates 1-12,2018-12-31,220.0,Clean,Very safe,Somewhat satsified
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7487b84407d87b571885974571217cf685710cc27c1372e4a3f644277827c75
+size 298026
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

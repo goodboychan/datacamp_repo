@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Date,Price
 2015-09-29,236.9
 2015-09-30,237.1
@@ -731,3 +732,8 @@ Date,Price
 2017-09-27,4200.0
 2017-09-28,4189.4
 2017-09-29,4157.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:711ffb54f5d81c01ec58f8401c7aa54b0efd3b8862a3e6cd5e0ab612fb1754e3
+size 12693
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

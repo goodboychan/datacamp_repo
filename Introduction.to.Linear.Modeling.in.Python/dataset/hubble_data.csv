@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 names,distances,velocities
 SMC,0.032,170
 LMC,0.034,290
@@ -23,3 +24,8 @@ NGC-5236,0.9,500
 NGC-5357,0.45,200
 NGC-6822,0.214,-130
 NGC-7331,1.1,500
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:89b2c88f3d07ac0967b83926dfd47a63d456fdd02242bafed548d62541ee54fb
+size 440
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

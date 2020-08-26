@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 feature 1,feature 2,feature 3,feature 4,feature 5,label
 29.0,0,0,211.3375,female,1
 0.9167,1,2,151.55,male,1
@@ -14,3 +15,8 @@ feature 1,feature 2,feature 3,feature 4,feature 5,label
 24.0,0,0,69.3,female,1
 26.0,0,0,78.85,female,1
 80.0,0,0,30.0,male,1
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:24bb10903e7d3d2c2838916406cd990e1bf67c40119a694d33bc10184cfdd116
+size 415
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

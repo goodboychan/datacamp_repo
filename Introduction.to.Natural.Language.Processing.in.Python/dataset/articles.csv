@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0,1,2,3,4,5,6,7,8,9,10,11
 uses,'',use,use,'',use,redirect|computer,for|the,selfref|to,multiple,'',computer
 file,debugging,dmy,dmy,reverse,mdy,system||computer,tv,report,issues|,exception,science
@@ -8865,3 +8866,8 @@ software|,,,legitimate,design,war,october,multiple,issue,,overhead,
 ,,,,,,articles,,,,,
 ,,,,,,example,,,,,
 ,,,,,,code,,,,,
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a3bafec871ef4c394076968d17076f7c32ef67daa520870aab7a45c3ded833b
+size 409345
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

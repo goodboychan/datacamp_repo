@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,quality
 7.0,0.27,0.36,20.7,0.045,45.0,170.0,1.001,3.0,0.45,8.8,6
 6.3,0.3,0.34,1.6,0.049,14.0,132.0,0.9940000000000001,3.3,0.49,9.5,6
@@ -4897,3 +4898,8 @@ fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur 
 6.5,0.24,0.19,1.2,0.040999999999999995,30.0,111.0,0.99254,2.99,0.46,9.4,6
 5.5,0.29,0.3,1.1,0.022000000000000002,20.0,110.0,0.98869,3.34,0.38,12.8,7
 6.0,0.21,0.38,0.8,0.02,22.0,98.0,0.98941,3.26,0.32,11.8,6
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e968065d11c1e38c0d968e4832f24c82a59d42e93238383bd8c65b823d71e6
+size 321104
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

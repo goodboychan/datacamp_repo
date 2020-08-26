@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mon,dom,dow,carrier,flight,org,mile,depart,duration,delay
 11,20,6,US,19,JFK,2153,9.48,351,NA
 0,22,2,UA,1107,ORD,316,16.33,82,30
@@ -49999,3 +50000,8 @@ mon,dom,dow,carrier,flight,org,mile,depart,duration,delay
 10,21,5,UA,520,ORD,783,8.23,124,-13
 3,20,0,UA,835,LGA,733,8.00,150,25
 1,17,0,UA,766,ORD,622,21.00,103,19
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:0014a032ed71f78ae0da21bc08bb0ecdb07c75ed57add7f9c95ee0d0fc382be6
+size 1756579
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

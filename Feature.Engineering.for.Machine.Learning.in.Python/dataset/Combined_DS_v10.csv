@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SurveyDate,FormalEducation,ConvertedSalary,Hobby,Country,StackOverflowJobsRecommend,VersionControl,Age,Years Experience,Gender,RawSalary
 2/28/18 20:20,Bachelor's degree (BA. BS. B.Eng.. etc.),,Yes,South Africa,,Git,21,13,Male,
 6/28/18 13:26,Bachelor's degree (BA. BS. B.Eng.. etc.),70841.0,Yes,Sweeden,7.0,Git;Subversion,38,9,Male,"70,841.00"
@@ -998,3 +999,8 @@ SurveyDate,FormalEducation,ConvertedSalary,Hobby,Country,StackOverflowJobsRecomm
 3/21/18 6:34,Bachelor's degree (BA. BS. B.Eng.. etc.),55000.0,Yes,USA,,Git,54,16,Male,"$55,000.00"
 2/5/18 20:01,Bachelor's degree (BA. BS. B.Eng.. etc.),,Yes,Sweeden,,Git;Subversion,23,9,,
 2/11/18 21:23,Bachelor's degree (BA. BS. B.Eng.. etc.),1000000.0,No,Russia,,Git,18,7,,"1,000,000.00"
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:6798f3591130c782a7a6ef112e4480ee7e4899247baf1d3395d9c62b1872cc1f
+size 111584
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

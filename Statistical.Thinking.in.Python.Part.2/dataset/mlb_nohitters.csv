@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 date,game_number,winning_team,losing_team,winning_pitcher
 18760715,140,,,
 18800612,1035,,,
@@ -293,3 +294,8 @@ date,game_number,winning_team,losing_team,winning_pitcher
 20150821,210610,HOU,LAN,Michael Fiers
 20150830,210740,CHN,LAN,Jake Arrieta
 20151003,211208,WAS,NYN,Max Scherzer
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56655bf151548a84b4f248dc532d921f47ff99807b466486fccbf95866bec75
+size 9541
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

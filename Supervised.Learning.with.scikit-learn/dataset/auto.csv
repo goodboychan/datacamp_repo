@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mpg,displ,hp,weight,accel,origin,size
 18.0,250.0,88,3139,14.5,US,15.0
 9.0,304.0,193,4732,18.5,US,20.0
@@ -391,3 +392,8 @@ mpg,displ,hp,weight,accel,origin,size
 29.5,98.0,68,2135,16.6,Asia,10.0
 17.5,250.0,110,3520,16.4,US,15.0
 25.1,140.0,88,2720,15.4,US,10.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea323687f5df9ca8d2ef29d7d26229ac507a3e6ab0b6849d022db77fd2aced8
+size 13073
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

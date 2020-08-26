@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hr,holiday,workingday,temp,hum,windspeed,cnt,instant,mnth,yr,Clear to partly cloudy,Light Precipitation,Misty
 0,0,0,0.76,0.66,0.0,149,13004,7,1,1,0,0
 1,0,0,0.74,0.7,0.1343,93,13005,7,1,1,0,0
@@ -1487,3 +1488,8 @@ hr,holiday,workingday,temp,hum,windspeed,cnt,instant,mnth,yr,Clear to partly clo
 21,0,1,0.76,0.58,0.19399999999999998,303,14489,8,1,1,0,0
 22,0,1,0.76,0.58,0.19399999999999998,277,14490,8,1,1,0,0
 23,0,1,0.74,0.62,0.1045,174,14491,8,1,1,0,0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a3960a91409725aef3124c443029e09e0c5e2d918467912a5bdbaac6c89920c
+size 65272
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

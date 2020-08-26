@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data extracted from the United States Geological Survey Advanced National Seismic System Comprehensive Earthquake Catalog (USGS ANSS ComCat), available here https://earthquake.usgs.gov/data/comcat/
 # The loc_name, loc_admin1, loc_admin2, and loc_cc fields were added based on the latitude and longitude fields using the reverse_geocoder package, https://github.com/thampiman/reverse-geocoder.
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,loc_name,loc_admin1,loc_admin2,loc_cc
@@ -9992,3 +9993,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2017-07-09 11:02:26.690,35.985,-120.56016670000001,4.5,0.61,md,15.0,112.0,0.02864,0.04,nc,nc72832246,2017-07-18T22:57:04.896Z,"24km SW of Coalinga, California",earthquake,0.38,0.78,0.307,8.0,reviewed,nc,nc,Coalinga,California,Fresno County,US
 2017-07-12 04:32:54.290,35.966333299999995,-120.514,2.87,0.33,md,18.0,68.0,0.0137,0.03,nc,nc72834671,2017-07-20T23:58:03.532Z,"23km SW of Coalinga, California",earthquake,0.21,0.5,0.254,7.0,reviewed,nc,nc,Coalinga,California,Fresno County,US
 2017-07-16 22:34:15.590,35.9459991,-120.46883390000002,6.7,0.7,md,11.0,102.0,0.0024289999999999997,0.14,nc,nc72839916,2017-07-16T22:42:02.525Z,"23km SSW of Coalinga, California",earthquake,0.98,2.24,0.44,2.0,automatic,nc,nc,Coalinga,California,Fresno County,US
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:17b8c8d93a69038612836d170cd9ec6aa090ed1037b3d8739ba6d461b8f47f31
+size 2391068
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,sepal length (cm),sepal width (cm),petal length (cm),petal width (cm),target
 50,7.0,3.2,4.7,1.4,1
 51,6.4,3.2,4.5,1.5,1
@@ -99,3 +100,8 @@
 147,6.5,3.0,5.2,2.0,2
 148,6.2,3.4,5.4,2.3,2
 149,5.9,3.0,5.1,1.8,2
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:12dd82f6caecd3322a16b4105e4a56737c8ad51d5e1645b37333a5429b530a0a
+size 2227
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

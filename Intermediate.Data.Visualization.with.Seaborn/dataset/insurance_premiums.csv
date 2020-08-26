@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 State,fatal_collisions,fatal_collisions_speeding,fatal_collisions_alc,fatal_collisions_not_distracted,fatal_collisions_no_hist,premiums,insurance_losses,Region
 Alabama,18.8,39,30,96,80,784.55,145.08,South
 Alaska,18.1,41,25,90,94,1053.48,133.93,West
@@ -50,3 +51,8 @@ Washington,10.6,42,33,82,86,890.03,111.62,West
 West Virginia,23.8,34,28,97,87,992.61,152.56,South
 Wisconsin,13.8,36,33,39,84,670.31,106.62,Midwest
 Wyoming,17.4,42,32,81,90,791.14,122.04,West
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:f08c2b654d43484d7796e08a8822ae4b6145730f8f29165a4bb580398228968a
+size 2592
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

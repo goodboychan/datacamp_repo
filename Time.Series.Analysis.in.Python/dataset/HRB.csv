@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quarter,Earnings
 2007Q1,-0.36
 2007Q2,-0.38
@@ -43,3 +44,8 @@ Quarter,Earnings
 2017Q2,-0.67
 2017Q3,-0.45
 2017Q4,3.76
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfd0b95e35241d1861709549a1b7037ccecb939415ef6723e3954c4397d2cfcd
+size 567
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

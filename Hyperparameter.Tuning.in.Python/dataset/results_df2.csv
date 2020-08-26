@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 max_depth,learn_rate,accuracy
 1,0.001,89
 1,0.021387755102040815,78
@@ -999,3 +1000,8 @@ max_depth,learn_rate,accuracy
 20,0.9592244897959183,70
 20,0.9796122448979592,73
 20,1.0,48
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:531d99e96ab35bd3ddf29be6a7da3ca83ca443a9c70bf64f29e8664e963285c2
+size 24279
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

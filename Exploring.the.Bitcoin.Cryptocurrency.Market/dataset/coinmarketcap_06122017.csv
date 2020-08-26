@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,24h_volume_usd,available_supply,id,last_updated,market_cap_usd,max_supply,name,percent_change_1h,percent_change_24h,percent_change_7d,price_btc,price_usd,rank,symbol,total_supply
 0,9007640000.0,16723525.0,bitcoin,1512549554,213049346738.0,21000000.0,Bitcoin,0.12,7.33,17.45,1.0,12739.5,1,BTC,16723525.0
 1,1551330000.0,96165368.0,ethereum,1512549553,43529446198.0,,Ethereum,-0.18,-3.93,-7.33,0.0361767,452.652,2,ETH,96165368.0
@@ -1325,3 +1326,8 @@
 1323,,,bitcoincashscrypt,1512548078,,,BitcoinCashScrypt,-0.37,-37.39,-27.69,5e-07,0.00620172,1324,BCCS,2502380.0
 1324,,,swisscoin,1512540278,,,Swisscoin,,4.39,-22.84,1e-08,0.000122905,1325,SIC,10200000000.0
 1325,,,faceblock,1512435283,,,Faceblock,,,-6.83,1.4e-07,0.00165431,1326,FBL,10000000.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d3d744a1c0ecdad117d9681011802de745ebd51b3038f823fe31fb55f28f9b
+size 154099
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

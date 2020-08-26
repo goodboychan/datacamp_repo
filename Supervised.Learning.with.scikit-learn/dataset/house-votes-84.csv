@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 republican,n,y,n,y,y,y,n,n,n,y,?,y,y,y,n,y
 republican,n,y,n,y,y,y,n,n,n,n,n,y,y,y,n,?
 democrat,?,y,y,?,y,y,n,n,n,n,y,n,y,y,n,n
@@ -433,3 +434,8 @@ democrat,n,n,y,n,n,n,y,y,y,y,n,n,n,n,n,y
 republican,n,?,n,y,y,y,n,n,n,n,y,y,y,y,n,y
 republican,n,n,n,y,y,y,?,?,?,?,n,y,y,y,n,y
 republican,n,y,n,y,y,y,n,n,n,y,n,y,y,y,?,n
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:c87c14110a5ba91d4a1e313ec7392824458152bf071fa5f5452340488337936e
+size 18171
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

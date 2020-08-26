@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 year,sea_level_inches
 1970,4.67716535
 1971,4.881889759
@@ -43,3 +44,8 @@ year,sea_level_inches
 2011,8.96456692
 2012,9.326771644
 2013,8.980314951
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:14281497f4f4133ed21ecfc5f6343327edbd0842901cdd33de2b08bc470329d2
+size 765
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

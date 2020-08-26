@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cleaned up from http://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt
 # More info: https://data.gov.uk/dataset/historic-monthly-meteorological-station-data
 # Sheffield
@@ -1609,3 +1610,8 @@
    2016   4   11.6     3.8       1    65.8   154.9
    2016   5   16.9     7.9       0    58.2   164.5
    2016   6   18.8    11.1       0   130.4   106.5
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d01a36f83f4ba7beefb4d114544c62d61939d6d5b69e275a2ad8fb96c759e6
+size 82218
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

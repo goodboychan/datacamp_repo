@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Country ,Continent,female literacy,fertility,population
 Chine,ASI,90.5,1.769,1324655000.0
 Inde,ASI,50.8,2.682,1139964931.64188
@@ -181,3 +182,8 @@ Iles Caïmanes,,99,,
 Seychelles,,92.3,,
 Territoires autonomes palestiniens,,90.9,,
 WORLD,WORLD,77,,
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b5f489fbf6741765b91e6e1ea12767862c692b011bc5388448b7a1f32b3695d
+size 6132
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

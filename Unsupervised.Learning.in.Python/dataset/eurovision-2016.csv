@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 From country,To country,Jury A,Jury B,Jury C,Jury D,Jury E,Jury Rank,Televote Rank,Jury Points,Televote Points
 Albania,Belgium,20,16,24,22,24,25,14,,
 Albania,Czech Republic,21,15,25,23,16,22,22,,
@@ -1065,3 +1066,8 @@ United Kingdom,Malta,18,13,8,17,4,12,15,,
 United Kingdom,Georgia,2,2,3,2,1,1,19,12,
 United Kingdom,Austria,23,15,12,18,13,17,13,,
 United Kingdom,Armenia,15,22,7,24,18,20,18,,
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:c82004a8d27ebe5943731b849b1001e5baaee13cfdadd2dc8c0308b5851c87f3
+size 41909
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

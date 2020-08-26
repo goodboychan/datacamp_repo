@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mid_parent,mid_offspring
 8.3318,8.4190
 8.4035,9.2468
@@ -129,3 +130,8 @@ mid_parent,mid_offspring
 9.8854,9.6873
 10.0023,9.5203
 9.3914,9.6646
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:935d4326e1212c4f1b45d8667e7828cf4839a6f6414d01934c4cfd962c53f9d3
+size 1850
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Swimming results from 2015 World Aquatics Championships
 # Data from OMEGA, official time keepers of the World Championships.
 # Accessed http://www.omegatiming.com/File/Download?id=00010F0200FFFFFFFFFFFFFFFFFFFF08
@@ -11426,3 +11427,8 @@ athleteid,lastname,firstname,birthdate,gender,name,code,eventid,heat,lane,points
 113494,COVENTRY,KIRSTY LEIGH,1983-09-16,F,Zimbabwe,ZIM,231,2,7,854.0,0.7,130.74,2,63.3,100,1749.0,SEM,200,1,BACK,32.879999999999995
 113494,COVENTRY,KIRSTY LEIGH,1983-09-16,F,Zimbabwe,ZIM,231,2,7,854.0,0.7,130.74,3,97.34,150,1749.0,SEM,200,1,BACK,34.040000000000006
 113494,COVENTRY,KIRSTY LEIGH,1983-09-16,F,Zimbabwe,ZIM,231,2,7,854.0,0.7,130.74,4,130.74,200,1749.0,SEM,200,1,BACK,33.400000000000006
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:83662c0a70438400ee1be9a5d47f579ba0c7cc9b6faf2d73a0f380ef153ca0cf
+size 1402145
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

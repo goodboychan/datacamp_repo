@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 datestamp,Agriculture,Business services,Construction,Durable goods manufacturing,Education and Health,Finance,Government,Information,Leisure and hospitality,Manufacturing,Mining and Extraction,Nondurable goods manufacturing,Other,Self-employed,Transportation and Utilities,Wholesale and Retail Trade
 2000-01-01,10.3,5.7,9.7,3.2,2.3,2.7,2.1,3.4,7.5,3.6,3.9,4.4,4.9,2.3,4.3,5.0
 2000-02-01,11.5,5.2,10.6,2.9,2.2,2.8,2.0,2.9,7.5,3.4,5.5,4.2,4.1,2.5,4.0,5.2
@@ -121,3 +122,8 @@ datestamp,Agriculture,Business services,Construction,Durable goods manufacturing
 2009-12-01,19.7,10.3,22.7,13.3,5.6,7.2,3.6,8.5,12.6,11.9,11.8,9.5,8.2,5.9,9.0,9.1
 2010-01-01,21.3,11.1,24.7,14.1,5.5,6.6,4.3,10.0,14.2,13.0,9.1,11.1,10.0,7.2,11.3,10.5
 2010-02-01,18.8,12.0,27.1,13.6,5.6,7.5,4.0,10.0,12.7,12.1,10.7,9.7,9.9,6.5,10.5,10.0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba9ee3fb543f2881787a66b63d23ea1f20319f4e09b9db1a1e603753cad96a4a
+size 9633
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

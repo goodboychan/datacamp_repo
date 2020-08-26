@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data extracted from the United States Geological Survey Advanced National Seismic System Comprehensive Earthquake Catalog (USGS ANSS ComCat), available here https://earthquake.usgs.gov/data/comcat/
 # The loc_name, loc_admin1, loc_admin2, and loc_cc fields were added based on the latitude and longitude fields using the reverse_geocoder package, https://github.com/thampiman/reverse-geocoder.
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource,loc_name,loc_admin1,loc_admin2,loc_cc
@@ -8979,3 +8980,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2017-07-18 02:32:30.360,36.6221,-98.4302,5.0,3.6,mb_lg,,30.0,0.24,0.56,us,us20009x85,2017-07-22T02:42:20.223Z,"16km SSW of Cherokee, Oklahoma",earthquake,3.0,2.0,0.054000000000000006,90.0,reviewed,us,us,Cherokee,Oklahoma,Alfalfa County,US
 2017-07-18 19:35:39.060,35.2236,-97.8895,16.95,2.6,mb_lg,,48.0,0.152,0.47,us,us20009xna,2017-07-19T15:19:08.040Z,"9km SW of Tuttle, Oklahoma",earthquake,1.5,4.9,0.06,72.0,reviewed,us,us,Tuttle,Oklahoma,Grady County,US
 2017-07-18 21:59:52.270,35.8749,-96.6953,4.95,3.0,mb_lg,,50.0,0.08900000000000001,0.3,us,us20009xqw,2017-07-19T00:39:12.203Z,"13km SSE of Cushing, Oklahoma",earthquake,1.7,3.3,0.05,106.0,reviewed,us,us,Cushing,Oklahoma,Payne County,US
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c187d8d360f442ee67aa71522e51bd7b0a5d57dbe96216148e9cdb90e7955d6
+size 1879873
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

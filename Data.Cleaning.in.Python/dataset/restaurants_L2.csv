@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,name,addr,city,phone,type
 0,arnie morton's of chicago, 435 s. la cienega blv . ,los angeles,3102461501,american
 1,art's delicatessen, 12224 ventura blvd. ,studio city,8187621221,american
@@ -335,3 +336,8 @@
 333,world wrapps, 2257 chestnut st. ,san francisco,4155639727,american
 334,wu kong, 101 spear st. ,san francisco,4159579300,asian
 335,yank sing, 427 battery st. ,san francisco,4155414949,asian
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cf02f6e970c465f0b37d15f4860b2f827a081a44c94d43cb56fab0d92e343c5
+size 24725
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

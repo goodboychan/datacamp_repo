@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 competitorname,chocolate,fruity,caramel,peanutyalmondy,nougat,crispedricewafer,hard,bar,pluribus,sugarpercent,pricepercent,winpercent
 100 Grand,1,0,1,0,0,1,0,1,0,.73199999,.86000001,66.971725
 3 Musketeers,1,0,0,0,1,0,0,1,0,.60399997,.51099998,67.602936
@@ -84,3 +85,8 @@ Warheads,0,1,0,0,0,0,1,0,0,.093000002,.116,39.011898
 WelchÕs Fruit Snacks,0,1,0,0,0,0,0,0,1,.31299999,.31299999,44.375519
 WertherÕs Original Caramel,0,0,1,0,0,0,1,0,0,.186,.26699999,41.904308
 Whoppers,1,0,0,0,0,1,0,0,1,.87199998,.84799999,49.524113
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aa2be8bc7076d19d388039f11ecdbfdca1a8715ac31344b2a6e012c3ec40f1e
+size 5205
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

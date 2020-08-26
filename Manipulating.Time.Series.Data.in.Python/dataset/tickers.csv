@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RIO
 ILMN
 CPRT
@@ -10,3 +11,8 @@ MA
 TEF
 AAPL
 UPS
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:3276d0a67cf3e2c08973f5e990cb616ce57f2cc9a4682ec1201876ccea4bf805
+size 50
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

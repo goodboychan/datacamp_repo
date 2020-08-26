@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,id,full_name,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,cleanliness,safety,satisfaction
 0,1351,Melodie Stuart,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,2018-12-31,115.0,Clean,Neutral,Very satisfied
 1,373,Dominic Shannon,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,2018-12-31,135.0,Clean,Very safe,Very satisfied
@@ -199,3 +200,8 @@
 197,2245,Amethyst Nieves,Thursday,SOUTHWEST,PHOENIX,West US,Hub,Gates 20-39,2018-12-31,140.0,Average,Somewhat safe,Somewhat satsified
 198,238,Miss Vivian Foreman,Wednesday,AMERICAN,LOS ANGELES,West US,Hub,Gates 50-59,2018-12-31,115.0,Somewhat clean,Very safe,Somewhat satsified
 199,1077,Miss Wendy Griffin,Friday,AIR CANADA,CALGARY,Canada/Mexico,Medium,Gates 91-102,2018-12-31,385.0,Somewhat clean,Somewhat safe,Neutral
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:40dd90e2d4a8f4d9d548ebe7c7e3e774908136010b3ac1e438fdc2f1d30a29b3
+size 26842
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

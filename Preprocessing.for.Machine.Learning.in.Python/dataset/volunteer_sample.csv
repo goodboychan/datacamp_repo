@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 vol_requests,title,hits,category_desc,locality,region,postalcode,created_date,vol_requests_lognorm,created_month,Education,Emergency Preparedness,Environment,Health,Helping Neighbors in Need,Strengthening Communities
 2,Web designer,22,Strengthening Communities,"5 22nd St
 New York, NY 10010
@@ -1720,3 +1721,8 @@ NY, NY 10018
 5,Volunteer filmmakers to help Mayor's Office with YouCanToo! initiative ,304,Strengthening Communities,"100 Gold Street
 New York, NY 10038
 (40.71053013983237, -74.00381331091222)",NY,10038.0,2011-07-07,1.6094379124341003,7,0,0,0,0,0,1
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:614e22e23a704454307b0443d5607e1ce5b0235a925c1519c29dd9eea1c835d2
+size 115657
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

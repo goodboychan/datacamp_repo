@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 date,super_bowl,venue,city,state,attendance,team_winner,winning_pts,qb_winner_1,qb_winner_2,coach_winner,team_loser,losing_pts,qb_loser_1,qb_loser_2,coach_loser,combined_pts,difference_pts
 2018-02-04,52,U.S. Bank Stadium,Minneapolis,Minnesota,67612,Philadelphia Eagles,41,Nick Foles,,Doug Pederson,New England Patriots,33,Tom Brady,,Bill Belichick,74,8
 2017-02-05,51,NRG Stadium,Houston,Texas,70807,New England Patriots,34,Tom Brady,,Bill Belichick,Atlanta Falcons,28,Matt Ryan,,Dan Quinn,62,6
@@ -51,3 +52,8 @@ date,super_bowl,venue,city,state,attendance,team_winner,winning_pts,qb_winner_1,
 1969-01-12,3,Orange Bowl,Miami,Florida,75389,New York Jets,16,Joe Namath,,Weeb Ewbank,Baltimore Colts,7,Earl Morrall,Johnny Unitas,Don Shula,23,9
 1968-01-14,2,Orange Bowl,Miami,Florida,75546,Green Bay Packers,33,Bart Starr,,Vince Lombardi,Oakland Raiders,14,Daryle Lamonica,,John Rauch,47,19
 1967-01-15,1,Memorial Coliseum,Los Angeles,California,61946,Green Bay Packers,35,Bart Starr,,Vince Lombardi,Kansas City Chiefs,10,Len Dawson,,Hank Stram,45,25
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:75b723dbc4563110398698f987c8b8e1acc1e63ec6514f16624ce8f3cc4a1b54
+size 8296
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

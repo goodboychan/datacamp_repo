@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class_label,class_name,alcohol,malic_acid,ash,alcalinity_of_ash,magnesium,total_phenols,flavanoids,nonflavanoid_phenols,proanthocyanins,color_intensity,hue,od280,proline
 1,Barolo,14.23,1.71,2.43,15.6,127,2.8,3.06,0.28,2.29,5.64,1.04,3.92,1065
 1,Barolo,13.2,1.78,2.14,11.2,100,2.65,2.76,0.26,1.28,4.38,1.05,3.4,1050
@@ -177,3 +178,8 @@ class_label,class_name,alcohol,malic_acid,ash,alcalinity_of_ash,magnesium,total_
 3,Barbera,13.27,4.28,2.26,20.0,120,1.59,0.69,0.43,1.35,10.2,0.59,1.56,835
 3,Barbera,13.17,2.59,2.37,20.0,120,1.65,0.68,0.53,1.46,9.3,0.6,1.62,840
 3,Barbera,14.13,4.1,2.74,24.5,96,2.05,0.76,0.56,1.35,9.2,0.61,1.6,560
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:a698c30f1c58a4456dc21f7a6bff75cc90bdf2e28e394b3b2487fd1965cef8a8
+size 13142
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

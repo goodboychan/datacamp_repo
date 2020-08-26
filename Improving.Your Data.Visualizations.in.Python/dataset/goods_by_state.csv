@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,state,good,prop_selling
 0,Alabama,Bakedgoods,0.7605633802816901
 1,Alabama,Beans,0.08450704225352113
@@ -1420,3 +1421,8 @@
 1418,Wyoming,Vegetables,0.9354838709677419
 1419,Wyoming,WildHarvested,0.0967741935483871
 1420,Wyoming,Wine,0.06451612903225806
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d78e14f041417c89894bf7f817555e6b2d690caba51861bfc92d5e654166ce9
+size 56116
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

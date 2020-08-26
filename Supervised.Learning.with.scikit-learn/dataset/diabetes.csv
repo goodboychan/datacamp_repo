@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pregnancies,glucose,diastolic,triceps,insulin,bmi,dpf,age,diabetes
 6,148,72,35,0,33.6,0.627,50,1
 1,85,66,29,0,26.6,0.35100000000000003,31,0
@@ -767,3 +768,8 @@ pregnancies,glucose,diastolic,triceps,insulin,bmi,dpf,age,diabetes
 5,121,72,23,112,26.2,0.245,30,0
 1,126,60,0,0,30.1,0.349,47,1
 1,93,70,31,0,30.4,0.315,23,0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a6808cd55cce415ae7470f73b2452fb2bcf119f8f22043f98da42e3a70a99a
+size 25822
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

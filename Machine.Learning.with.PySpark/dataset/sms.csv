@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1;Sorry, I'll call later in meeting;0
 2;Dont worry. I guess he's busy.;0
 3;Call FREEPHONE 0800 542 0578 now!;1
@@ -5572,3 +5573,8 @@
 5572;Pity, * was in mood for that. So...any other suggestions?;0
 5573;The guy did some bitching but I acted like i'd be interested in buying something else next week and he gave it to us for free;0
 5574;Rofl. Its true to its name;0
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:5587d29da4467eb2b252735eaa80ff5516fdae55b0f84bd10bb3cb742c3402f1
+size 488033
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

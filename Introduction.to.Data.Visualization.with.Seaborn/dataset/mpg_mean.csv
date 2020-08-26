@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,model_year,origin,mpg_mean
 0,70,europe,25.2
 1,70,japan,25.5
@@ -38,3 +39,8 @@
 36,82,europe,40.0
 37,82,japan,34.888888888888886
 38,82,usa,29.45
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7157eeed44c61a3a9ad1e549d78017b560bd3c6a282d2fa8eda21d17fd86e7d
+size 883
+>>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
