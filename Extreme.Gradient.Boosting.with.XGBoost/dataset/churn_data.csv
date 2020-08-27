@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_inc_price,inc_pct,weekday_pct,fancy_car_user,city_Carthag,city_Harko,phone_iPhone,first_month_cat_more_1_trip,first_month_cat_no_trips,month_5_still_here
 3.67,5.0,4.7,1.1,15.4,46.2,True,0,1,1,1,0,1
 8.26,5.0,5.0,1.0,0.0,50.0,False,1,0,0,0,1,0
@@ -50001,13 +49999,3 @@ avg_dist,avg_rating_by_driver,avg_rating_of_driver,avg_inc_price,inc_pct,weekday
 3.86,5.0,5.0,1.0,0.0,100.0,True,0,0,0,0,1,0
 4.58,3.5,3.0,1.0,0.0,100.0,False,1,0,1,1,0,0
 3.49,5.0,,1.0,0.0,0.0,False,1,0,0,0,1,0
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:927fcc67380ee051939ab42f195450d99df7774633228d144e00d5b2ae2bc38b
-size 2193109
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:927fcc67380ee051939ab42f195450d99df7774633228d144e00d5b2ae2bc38b
-size 2193109
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
 1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False
 2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,False
@@ -801,13 +799,3 @@
 720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True
 720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,True
 721,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,True
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:b17116a0713ecc99d1e4d883086c0ac083649e731a3dae25daa5da15793f9d50
-size 44027
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:b17116a0713ecc99d1e4d883086c0ac083649e731a3dae25daa5da15793f9d50
-size 44027
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

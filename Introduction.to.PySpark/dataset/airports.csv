@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 "faa","name","lat","lon","alt","tz","dst"
 "04G","Lansdowne Airport",41.1304722,-80.6195833,1044,-5,"A"
 "06A","Moton Field Municipal Airport",32.4605722,-85.6800278,264,-5,"A"
@@ -1398,13 +1396,3 @@
 "ZWI","Wilmington Amtrak Station",39.736667,-75.551667,0,-5,"A"
 "ZWU","Washington Union Station",38.89746,-77.00643,76,-5,"A"
 "ZYP","Penn Station",40.7505,-73.9935,35,-5,"A"
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:6280e0b010f9a66d61f6e93eee960cff646c9b6ee68180f579198e8668a50ee4
-size 84548
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:6280e0b010f9a66d61f6e93eee960cff646c9b6ee68180f579198e8668a50ee4
-size 84548
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

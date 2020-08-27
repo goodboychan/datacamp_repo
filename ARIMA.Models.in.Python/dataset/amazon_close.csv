@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 date,close
 2019-02-08,1588.22
 2019-02-07,1614.37
@@ -1260,13 +1258,3 @@ date,close
 2014-02-12,349.25
 2014-02-11,361.79
 2014-02-10,360.87
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:50b6456c9be413a1d732415c2bf097b1fa4d0f46381cbe16d60b32174a42e153
-size 22870
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:50b6456c9be413a1d732415c2bf097b1fa4d0f46381cbe16d60b32174a42e153
-size 22870
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 shot_id,game_id,lat,lon,minutes_remaining,playoffs,season,shot_distance,shot_type,shot_made_flag
 2,20000012,34.0443,-118.4268,10,0,2000-01,15,2PT Field Goal,0.0
 3,20000012,33.9093,-118.3708,7,0,2000-01,16,2PT Field Goal,1.0

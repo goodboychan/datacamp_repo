@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Country,Region,Population,Area (sq. mi.),Pop. Density (per sq. mi.),Coastline (coast/area ratio),Net migration,Infant mortality (per 1000 births),GDP ($ per capita),Literacy (%),Phones (per 1000),Arable (%),Crops (%),Other (%),Climate,Birthrate,Deathrate,Agriculture,Industry,Service
 "Afghanistan ","ASIA (EX. NEAR EAST)         ",31056997,647500,"48,0","0,00","23,06","163,07",700,"36,0","3,2","12,13","0,22","87,65",1,"46,6","20,34","0,38","0,24","0,38"
 "Albania ","EASTERN EUROPE                     ",3581655,28748,"124,6","1,26","-4,93","21,52",4500,"86,5","71,2","21,09","4,42","74,49",3,"15,11","5,22","0,232","0,188","0,579"
@@ -228,13 +226,3 @@ Country,Region,Population,Area (sq. mi.),Pop. Density (per sq. mi.),Coastline (c
 "Yemen ","NEAR EAST                          ",21456188,527970,"40,6","0,36",0,"61,5",800,"50,2","37,2","2,78","0,24","96,98",1,"42,89","8,3","0,135","0,472","0,393"
 "Zambia ","SUB-SAHARAN AFRICA                 ",11502010,752614,"15,3","0,00",0,"88,29",800,"80,6","8,2","7,08","0,03","92,9",2,41,"19,93","0,22","0,29","0,489"
 "Zimbabwe ","SUB-SAHARAN AFRICA                 ",12236805,390580,"31,3","0,00",0,"67,69",1900,"90,7","26,8","8,32","0,34","91,34",2,"28,01","21,84","0,179","0,243","0,579"
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9846ec20ef4e044fd68108965a6166f208a07c4b32008b63aff10d2b3e3049d
-size 38303
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9846ec20ef4e044fd68108965a6166f208a07c4b32008b63aff10d2b3e3049d
-size 38303
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

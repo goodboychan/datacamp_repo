@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ,lats,lons
 0,38.215,-109.04984
 1,38.40118,-109.06017
@@ -163,13 +161,3 @@
 159,37.97469,-109.04304
 160,38.10272,-109.04232
 161,38.21472,-109.0498
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:78c5f0e0d60093601109e9713dfeebb94280344874637d15a4488cf9997c9af8
-size 3744
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:78c5f0e0d60093601109e9713dfeebb94280344874637d15a4488cf9997c9af8
-size 3744
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

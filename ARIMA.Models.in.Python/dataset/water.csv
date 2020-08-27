@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 date,water_consumers
 1983-01-01,24963
 1983-02-01,27380
@@ -137,13 +135,3 @@ date,water_consumers
 1994-02-01,33454
 1994-03-01,38539
 1994-04-01,31775
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d93dc15ab9e0db849d6fe638818d516fda5e8b8c12b456a3ba1e14b4997c8fa
-size 2332
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d93dc15ab9e0db849d6fe638818d516fda5e8b8c12b456a3ba1e14b4997c8fa
-size 2332
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

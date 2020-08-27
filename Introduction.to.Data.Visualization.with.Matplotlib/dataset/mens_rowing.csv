@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ,Unnamed: 0,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal
 8,158,62,Giovanni Abagnale,M,21.0,198.0,90.0,Italy,ITA,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Coxless Pairs,Bronze
 735,11648,6346,Jrmie Azou,M,27.0,178.0,71.0,France,FRA,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Lightweight Double Sculls,Gold
@@ -85,13 +83,3 @@
 13071,260260,130259,Peter Noel Jan Wiersum,M,31.0,173.0,55.0,Netherlands,NED,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Coxed Eights,Bronze
 13077,260338,130298,Tone Wieten,M,22.0,201.0,102.0,Netherlands,NED,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Coxed Eights,Bronze
 13158,261973,131072,Kasper Winther Jrgensen,M,31.0,182.0,73.0,Denmark,DEN,2016 Summer,2016,Summer,Rio de Janeiro,Rowing,Rowing Men's Lightweight Coxless Fours,Silver
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed7e6e3cd0bae9ff5d9c5fc300cbc9078393ad06a2580d7e0f9bf90d021198ba
-size 12796
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed7e6e3cd0bae9ff5d9c5fc300cbc9078393ad06a2580d7e0f9bf90d021198ba
-size 12796
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

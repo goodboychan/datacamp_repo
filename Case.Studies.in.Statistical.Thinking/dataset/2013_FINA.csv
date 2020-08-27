@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Swimming results from 2013 World Aquatics Championships
-# Data from OMEGA, official time keepers of the World Championships.
-# Accessed http://www.omegatiming.com/File/Download?id=00010D0201FFFFFFFFFFFFFFFFFFFF04
-# Converted from XML to tidy CSV format
 athleteid,lastname,firstname,birthdate,gender,name,code,eventid,heat,lane,points,reactiontime,swimtime,split,cumswimtime,splitdistance,daytime,round,distance,relaycount,stroke,splitswimtime
 244414,KASHARI,ANXHELA,1996-01-01,F,ALBANIA,ALB,33,4,1,578.0,0.68,28.48,1,28.48,50,1000.0,PRE,50,1,FREE,28.48
 244417,BORSHI,NOEL,1996-01-01,F,ALBANIA,ALB,1,2,3,591.0,0.73,66.77,1,30.84,50,1000.0,PRE,100,1,FLY,30.84
@@ -9972,13 +9966,3 @@ athleteid,lastname,firstname,birthdate,gender,name,code,eventid,heat,lane,points
 242999,LAWSON,JAMES,1995-01-01,M,ZIMBABWE,ZIM,6,3,1,727.0,0.75,65.12,1,29.55,50,1147.0,PRE,100,1,BREAST,29.55
 242999,LAWSON,JAMES,1995-01-01,M,ZIMBABWE,ZIM,6,3,1,727.0,0.75,65.12,2,65.12,100,1147.0,PRE,100,1,BREAST,35.57000000000001
 242999,LAWSON,JAMES,1995-01-01,M,ZIMBABWE,ZIM,14,4,8,760.0,0.71,29.22,1,29.22,50,1000.0,PRE,50,1,BREAST,29.22
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:32b6d31d98c950f5b421bd89ec9d3eaa0294e16d2f51e110c95b93509efd55c0
-size 1232836
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:32b6d31d98c950f5b421bd89ec9d3eaa0294e16d2f51e110c95b93509efd55c0
-size 1232836
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

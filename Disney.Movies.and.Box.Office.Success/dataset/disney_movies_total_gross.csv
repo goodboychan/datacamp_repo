@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 movie_title,release_date,genre,mpaa_rating,total_gross,inflation_adjusted_gross
 Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485,5228953251
 Pinocchio,1940-02-09,Adventure,G,84300000,2188229052
@@ -580,13 +578,3 @@ Queen of Katwe,2016-09-23,Drama,PG,8874389,8874389
 Doctor Strange,2016-11-04,Adventure,PG-13,232532923,232532923
 Moana,2016-11-23,Adventure,PG,246082029,246082029
 Rogue One: A Star Wars Story,2016-12-16,Adventure,PG-13,529483936,529483936
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:30cdc4022b002a6a475dc02a45a26f784f3137bb9e9c93da97ca15b6f69864d0
-size 33384
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:30cdc4022b002a6a475dc02a45a26f784f3137bb9e9c93da97ca15b6f69864d0
-size 33384
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

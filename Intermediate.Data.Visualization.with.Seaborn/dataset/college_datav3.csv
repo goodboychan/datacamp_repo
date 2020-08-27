@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 INSTNM,OPEID,REGION,SAT_AVG_ALL,PCTPELL,PCTFLOAN,ADM_RATE_ALL,UG,AVGFACSAL,COMPL_RPY_5YR_RT,DEBT_MDN,MEDIAN_HH_INC,ICLEVEL,HIGHDEG,CONTROL,WOMENONLY,MENONLY,LOCALE,Tuition,Degree_Type,Ownership,Regions,Locales,Locale_Short
 Alabama A & M University,100200,5,850.0,0.7249,0.8159,0.65384128591317,4380.0,7017.0,0.477631579,14600,49720.22,1,4,1,0.0,0.0,12.0,13435.0,Graduate,Public,South East,City: Midsize,City
 University of Alabama at Birmingham,105200,5,1147.0,0.3505,0.5218,0.60427528675703,10331.0,10221.0,0.673230442,14250,55735.22,1,4,1,0.0,0.0,12.0,16023.0,Graduate,Public,South East,City: Midsize,City
@@ -6703,13 +6701,3 @@ Rasmussen College - Overland Park,869423,4,,,,,,,0.598980065,10851.5,,1,0,3,,,,,
 National Personal Training Institute of Cleveland,4220901,3,,,,,,,,6333,,3,0,3,,,,,Non-degree,Private for-profit,Great Lakes,,
 Bay Area Medical Academy - San Jose Satellite Location,4223701,8,,,,,,,,5500,,3,0,3,,,,,Non-degree,Private for-profit,Far West,,
 High Desert Medical College,4228101,8,,,,,,,,7519,,3,0,3,,,,,Non-degree,Private for-profit,Far West,,
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:7186199d36c9be3646b05e872df84ba8847378ab14d7dc973f9374fb552ea943
-size 1179384
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:7186199d36c9be3646b05e872df84ba8847378ab14d7dc973f9374fb552ea943
-size 1179384
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

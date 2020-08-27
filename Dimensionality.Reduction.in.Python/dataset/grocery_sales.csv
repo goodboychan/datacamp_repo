@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 storeID,product,quantity,revenue
 A,Apples,1811,9300.6
 A,Bananas,1003,3375.2
@@ -79,13 +77,3 @@ Y,Oranges,1441,6856.1
 Z,Apples,1441,7209
 Z,Bananas,1199,4440.5
 Z,Oranges,973,3990.4
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5497165027541852c72e1e48df4002b0990a74688afaf957c0598dbfb7a5225
-size 1664
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5497165027541852c72e1e48df4002b0990a74688afaf957c0598dbfb7a5225
-size 1664
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

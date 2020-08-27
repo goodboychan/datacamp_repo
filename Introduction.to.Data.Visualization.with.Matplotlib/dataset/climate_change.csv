@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 date,co2,relative_temp
 1958-03-06,315.71,0.1
 1958-04-06,317.45,0.01
@@ -707,13 +705,3 @@ date,co2,relative_temp
 2016-10-06,401.59,0.89
 2016-11-06,403.55,0.93
 2016-12-06,404.45,0.81
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a9cea5e04714c35a132409fab259320c9c1b99a6462bc3a420a6fde424c0732
-size 16210
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a9cea5e04714c35a132409fab259320c9c1b99a6462bc3a420a6fde424c0732
-size 16210
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 max_depth,min_samples_leaf,learn_rate,accuracy
 4,16,0.624362416,95
 10,14,0.477449664,97
@@ -501,13 +499,3 @@ max_depth,min_samples_leaf,learn_rate,accuracy
 58,4,1.786308725,10
 44,8,1.599328859,10
 27,6,1.372281879,10
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:65974f96134df532e1d3923446bb7a34fb219d17bbbb47b0ee9372f0be7bf9a0
-size 10841
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:65974f96134df532e1d3923446bb7a34fb219d17bbbb47b0ee9372f0be7bf9a0
-size 10841
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

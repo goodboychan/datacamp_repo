@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ,school,sex,age,famsize,Pstatus,Medu,Fedu,traveltime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3,location,study_time
 0,GP,F,18,GT3,A,4,4,2,0,yes,no,no,no,yes,yes,no,no,4,3,4,1,1,3,6,5,6,6,Urban,2 to 5 hours
 1,GP,F,17,GT3,T,1,1,1,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,1,3,4,5,5,6,Urban,2 to 5 hours
@@ -396,13 +394,3 @@
 392,MS,M,21,GT3,T,1,1,1,3,no,no,no,no,no,yes,no,no,5,5,3,3,3,3,3,10,8,7,Rural,<2 hours
 393,MS,M,18,LE3,T,3,2,3,0,no,no,no,no,no,yes,yes,no,4,4,1,3,4,5,0,11,12,10,Rural,<2 hours
 394,MS,M,19,LE3,T,1,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,3,3,3,5,5,8,9,9,Urban,<2 hours
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:840171284368b43b147b5bcdc94d7cbc379f2608e32b6bd2ad9c3d328b0dd4d5
-size 37489
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:840171284368b43b147b5bcdc94d7cbc379f2608e32b6bd2ad9c3d328b0dd4d5
-size 37489
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

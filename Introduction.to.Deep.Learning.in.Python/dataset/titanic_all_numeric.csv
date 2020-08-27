@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 survived,pclass,age,sibsp,parch,fare,male,age_was_missing,embarked_from_cherbourg,embarked_from_queenstown,embarked_from_southampton
 0,3,22.0,1,0,7.25,1,False,0,0,1
 1,1,38.0,1,0,71.2833,0,False,1,0,0

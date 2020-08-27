@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 id,fare_amount,pickup_longitude,pickup_latitude,dropoff_longitude,dropoff_latitude,passenger_count,distance_km,hour
 0,4.5,-73.844311,40.721319,-73.84161,40.71227800000001,1,1.0307639350477122,17
 1,16.9,-74.016048,40.711303,-73.979268,40.782004,1,8.45013359580609,16

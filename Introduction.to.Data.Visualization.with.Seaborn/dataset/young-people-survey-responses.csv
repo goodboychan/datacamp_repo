@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 ,Music,Techno,Movies,History,Mathematics,Pets,Spiders,Loneliness,Parents' advice,Internet usage,Finances,Age,Siblings,Gender,Village - town,Age Category,Interested in Math
 0,5.0,1.0,5.0,1.0,3.0,4.0,1.0,3.0,4.0,few hours a day,3.0,20.0,1.0,female,village,Less than 21,False
 1,4.0,1.0,5.0,1.0,5.0,5.0,1.0,2.0,2.0,few hours a day,3.0,19.0,2.0,female,city,Less than 21,True
@@ -1011,13 +1009,3 @@
 1007,4.0,1.0,4.0,2.0,3.0,5.0,2.0,4.0,4.0,most of the day,1.0,18.0,0.0,female,city,Less than 21,False
 1008,5.0,2.0,5.0,3.0,1.0,4.0,3.0,3.0,3.0,most of the day,3.0,25.0,1.0,female,city,21+,False
 1009,5.0,3.0,5.0,2.0,2.0,5.0,1.0,3.0,3.0,few hours a day,5.0,21.0,1.0,male,village,21+,False
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ebab090558918430f182ed5ddf4e19b7439e1f67099c1fdb329df5975839039
-size 98326
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ebab090558918430f182ed5ddf4e19b7439e1f67099c1fdb329df5975839039
-size 98326
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Active bout lengths of zebrafish
-# Data provided courtesy of Avni Gandhi, Grigorios Oikonomou, and David Prober, Caltech.
-# Data set from experiments published in Avni V. Gandhi, Eric A. Mosser, Grigorios Oikonomou and David A. Prober. (2015). Melatonin is required for the circadian regulation of sleep. Neuron 85, 1193-1199. doi: 10.1016/j.neuron.2015.02.016.
-# Mutant fish have a null mutation in arylalkylamine N-acetyltransferase 2 (aanat2).
 genotype,bout_length,fish
 het,11.999999999999318,1
 het,32.999999999995566,1
@@ -5480,13 +5474,3 @@ wt,6.960000000000832,96
 wt,8.999999999998636,96
 wt,0.9600000000011732,96
 wt,1.9799999999992224,96
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9d9b64227ecf89b59b0e04cf4de878c6325b711641535c5f668e90f88bf9a86
-size 137622
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:e9d9b64227ecf89b59b0e04cf4de878c6325b711641535c5f668e90f88bf9a86
-size 137622
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
