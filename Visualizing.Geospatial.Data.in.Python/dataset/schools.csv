@@ -1,4 +1,3 @@
-
 School ID,School Name,Street Address,City,State,ZIP Code,Phone Number,School State ID,School Level,Lowest Grade,Highest Grade,Latitude,Longitude,School Website,Cluster,Mapped Location
 496,A. Z. Kelley Elementary,5834 Pettus Road,Antioch,TN,37013,(615)941-7535,1,Elementary School,Grade P3,Grade 4,36.02181712,-86.65884778,http://schools.mnps.org/az-kelley-elementary-school,Cane Ridge,"(36.02181712, -86.65884778)"
 375,Alex Green Elementary,3921 Lloyd Road,Whites Creek,TN,37189,(615)876-5105,5,Elementary School,Grade P4,Grade 4,36.2529607,-86.8322292,http://schools.mnps.org/alex-green-elementary-school,Whites Creek,"(36.2529607, -86.8322292)"
@@ -170,13 +169,3 @@ School ID,School Name,Street Address,City,State,ZIP Code,Phone Number,School Sta
 787,Whites Creek High School,7277 Old Hickory Blvd.,Whites Creek,TN,37189,(615)876-5132,704,High School,Grade 9,Grade 12,36.27664532,-86.81883299,http://schools.mnps.org/whites-creek-high-school,Whites Creek,"(36.27664532, -86.81883299)"
 612,William Henry Oliver Middle,6211 Nolensville Rd.,Nashville,TN,37211,(615)332-3011,538,Middle School,Grade 5,Grade 8,36.02017398,-86.7122071,http://schools.mnps.org/oliver-middle-prep,John Overton,"(36.02017398, -86.7122071)"
 805,Wright Middle,180 McCall Street,Nashville,TN,37211,(615)333-5189,715,Middle School,Grade 5,Grade 8,36.10010888,-86.73413342,http://schools.mnps.org/wright-middle-prep,Glencliff,"(36.10010888, -86.73413342)"
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbcf7db164edf1b59004649297d74308d0f3ee270ce029bbcf9435a097039374
-size 38616
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:bbcf7db164edf1b59004649297d74308d0f3ee270ce029bbcf9435a097039374
-size 38616
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

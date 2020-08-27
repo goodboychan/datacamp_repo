@@ -1,4 +1,3 @@
-
 Date,AAPL,GOOG
 2010-01-04,,313.06
 2010-01-05,,311.68
@@ -1864,13 +1863,3 @@ Date,AAPL,GOOG
 2017-05-26,153.61,971.47
 2017-05-30,153.67,975.88
 2017-05-31,152.76,964.86
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:2193160dc15f3600257eb47ff0fcd6e2c6afeaf61b0ba2763e24b2b200cbb211
-size 43760
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:2193160dc15f3600257eb47ff0fcd6e2c6afeaf61b0ba2763e24b2b200cbb211
-size 43760
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

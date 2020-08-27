@@ -1,4 +1,3 @@
-
 date,city,state,country,type,seconds,length_of_time,desc,recorded,lat,long
 2002-11-21 05:45:00,clemmons,nc,us,triangle,300.0,about 5 minutes,It was a large&#44 triangular shaped flying object.,12/23/2002,36.0213889,-80.3822222
 2012-06-16 23:00:00,san diego,ca,us,light,600.0,10 minutes,Dancing lights that would fly around and then merge into one light,7/4/2012,32.7152778,-117.1563889
@@ -1866,13 +1865,3 @@ date,city,state,country,type,seconds,length_of_time,desc,recorded,lat,long
 2008-11-10 00:30:00,uniontown,oh,us,changing,180.0,3 minutes,11/10/08  0:30/ Uniontown Ohio/Shape Round/Duration 3 min/Object was 25 ft in diam.&#44round and viewed from Uniontown Ohio 11/15/08,1/10/2009,40.975,-81.4083333
 1998-06-25 22:18:00,las cruces,nm,us,circle,180.0,3 minutes,My father and i were driving home from El Paso&#44 Texas&#44 to Las Cruses&#44 New Mexico. Half way to las cruses&#44(which is about a 30 min. driv,11/21/1998,32.3122222,-106.7777778
 2005-12-10 18:00:00,phoenix,az,us,other,60.0,1 minutes,Close encounter of the third kind.,12/20/2012,33.4483333,-112.07333329999999
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:95041a0e7ea96bc936df81fe6d574220b07a380b4927a49da91a534b0b69485f
-size 339963
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:95041a0e7ea96bc936df81fe6d574220b07a380b4927a49da91a534b0b69485f
-size 339963
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

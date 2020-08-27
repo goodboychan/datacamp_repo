@@ -1,4 +1,3 @@
-
 id,date,store,item
 0,2018-01-01,1,1
 1,2018-01-02,1,1
@@ -45000,13 +44999,3 @@ id,date,store,item
 44997,2018-03-29,10,50
 44998,2018-03-30,10,50
 44999,2018-03-31,10,50
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:16eb2eec677628c8ed62312a9d6749ebf46f59196dd2fece6fd1e5c147a918fb
-size 975309
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:16eb2eec677628c8ed62312a9d6749ebf46f59196dd2fece6fd1e5c147a918fb
-size 975309
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

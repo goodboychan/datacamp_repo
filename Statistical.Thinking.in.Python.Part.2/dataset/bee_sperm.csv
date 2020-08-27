@@ -1,4 +1,3 @@
-
 # Data from Straub L, Villamar-Bouza L, Bruckner S, Chantawannakul P, Gauthier L, Khongphinitbunjong K, Retschnig G, Troxler A, Vidondo-Curras B, Neumann P, Williams GR (2016) Neonicotinoid insecticides can serve as inadvertent insect contraceptives. Proceedings of the Royal Society B 283(1835): 20160506. http://dx.doi.org/10.1098/rspb.2016.0506
 # Data from Dryad repository, Straub L, Villamar-Bouza L, Bruckner S, Chantawannakul P, Gauthier L, Khongphinitbunjong K, Retschnig G, Troxler A, Vidondo-Curras B, Neumann P, Williams GR (2016) Data from: Neonicotinoid insecticides can serve as inadvertent insect contraceptives. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.bs515
 # Taken from the Excel file from the "Drone Sperm Data" sheet.
@@ -238,13 +237,3 @@ Specimen,Treatment,Environment,TreatmentNCSS,Sample ID,Colony,Cage,Sample,Sperm 
 153,Pesticide,Cage,2,P84-3-6,84,28,6,2037500,2037500,89.91779766,89.91779766,14,0,1832075,2.0375,1.832075,0.205425
 154,Pesticide,Cage,2,P84-3-7,84,28,7,1362500,1362500,86.33333333,86.33333333,14,0,1176291,1.3625,1.176291,0.186209
 155,Pesticide,Cage,2,P84-3-8,84,28,8,912500,912500,83.9286198,83.9286198,14,0,765848,0.9125,0.765848,0.146652
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:22d676c89fc210b766f060927b98b0596064da194e45fc496f50a0f6eb749d95
-size 27328
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:22d676c89fc210b766f060927b98b0596064da194e45fc496f50a0f6eb749d95
-size 27328
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

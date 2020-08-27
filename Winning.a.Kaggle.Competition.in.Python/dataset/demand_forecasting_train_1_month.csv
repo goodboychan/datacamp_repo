@@ -1,4 +1,3 @@
-
 id,date,store,item,sales
 100000,2017-12-01,1,1,19
 100001,2017-12-02,1,1,16
@@ -15500,13 +15499,3 @@ id,date,store,item,sales
 115497,2017-12-29,10,50,74
 115498,2017-12-30,10,50,62
 115499,2017-12-31,10,50,82
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:17e77f758b12f89eea4841ef9c652e1d2e0cca4b9585c6a1f22460d8c8aff6b4
-size 401882
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:17e77f758b12f89eea4841ef9c652e1d2e0cca4b9585c6a1f22460d8c8aff6b4
-size 401882
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

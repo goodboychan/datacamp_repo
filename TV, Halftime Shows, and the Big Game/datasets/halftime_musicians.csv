@@ -1,4 +1,3 @@
-
 super_bowl,musician,num_songs
 52,Justin Timberlake,11
 52,University of Minnesota Marching Band,1
@@ -134,13 +133,3 @@ super_bowl,musician,num_songs
 1,University of Arizona Symphonic Marching Band,
 1,Grambling State University Tiger Marching Band,
 1,Al Hirt,
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:832df89323edd656987d54d0ef5c060cf95784d38e67d6cbe83e7201e53e22cf
-size 3378
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:832df89323edd656987d54d0ef5c060cf95784d38e67d6cbe83e7201e53e22cf
-size 3378
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

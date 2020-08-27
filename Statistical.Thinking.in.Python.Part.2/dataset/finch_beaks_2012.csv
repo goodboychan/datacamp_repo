@@ -1,4 +1,3 @@
-
 band,species,blength,bdepth
 19022,fortis,10,8.5
 19028,fortis,12.5,8.9
@@ -248,13 +247,3 @@ band,species,blength,bdepth
 21340,scandens,14.6,8.9
 21342,scandens,13.1,9.8
 21347,scandens,15.2,9.1
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbc0bb4899d8117f918ac31595f039e3b5be01d7811408edec0b268c592ad34b
-size 5608
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:fbc0bb4899d8117f918ac31595f039e3b5be01d7811408edec0b268c592ad34b
-size 5608
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

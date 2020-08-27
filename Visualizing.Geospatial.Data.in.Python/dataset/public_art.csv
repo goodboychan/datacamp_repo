@@ -1,4 +1,3 @@
-
 Title,Last Name,First Name,Location,Medium,Type,Description,Latitude,Longitude,Mapped Location
 [Cross Country Runners],Frost,Miley,"4001 Harding Rd., Nashville TN",Bronze,Sculpture,,36.12856,-86.8366,"(36.12856, -86.8366)"
 [Fourth and Commerce Sculpture],Walker,Lin,"333 Commerce Street, Nashville TN",,Sculpture,,36.16234,-86.77774,"(36.16234, -86.77774)"
@@ -170,13 +169,3 @@ Welcome to Flatrock,Cooper,Michael,3756 Nolensville Rd,Silicate paint on concret
 Wind Reeds,Kahn,Ned,"1 Terminal Drive, Nashville TN",Aluminum panels,Sculpture,Hinged aluminum panels that cover a wall of the Consolidated Rental Car facility. The panels move according to the wind,36.13469,-86.66777,"(36.13469, -86.66777)"
 Women Suffrage Memorial,LeQuire,Alan,"600 Charlotte Avenue, Nashville TN",Bronze sculpture,Sculpture,,36.16527,-86.78382,"(36.16527, -86.78382)"
 Youth Opportunity Center-STARS Nashville - Peace Jam mural,Rudloff,Andee,1704 Charlotte Ave.,House paint on vinyl,Mural,,36.15896,-86.799,"(36.15896, -86.799)"
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:688fb038aa7256a12fa03761caac903ddd11e9e3f2e57c9ef3ffb72d147e0efe
-size 38097
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:688fb038aa7256a12fa03761caac903ddd11e9e3f2e57c9ef3ffb72d147e0efe
-size 38097
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

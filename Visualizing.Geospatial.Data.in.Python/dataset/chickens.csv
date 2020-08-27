@@ -1,4 +1,3 @@
-
 ,permit,city,state,zip,district,date_issued,lat,lng
 0,288.0,Nashville,TN,37211,30.0,11/26/2014,36.029132,-86.724578
 1,435.0,Nashville,TN,37211,19.0,05/18/2015,36.069132,-86.754578
@@ -313,13 +312,3 @@
 310,54.0,Nashville,TN,37204,6.0,12/03/2014,36.144305,-86.741748
 311,456.0,Nashville,TN,37207,5.0,06/24/2015,36.269945,-86.780061
 312,325.0,Nashville,TN,37216,7.0,11/19/2014,36.196134,-86.716204
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:4052062d91edc7e497b4fc719c1430acdb90002d1e6d5316caabb80514cbaad8
-size 20718
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:4052062d91edc7e497b4fc719c1430acdb90002d1e6d5316caabb80514cbaad8
-size 20718
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233

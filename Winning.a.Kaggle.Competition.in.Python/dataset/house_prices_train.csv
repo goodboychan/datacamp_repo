@@ -1,4 +1,3 @@
-
 Id,LotArea,OverallQual,YearBuilt,RoofStyle,TotalBsmtSF,CentralAir,1stFlrSF,2ndFlrSF,FullBath,HalfBath,BedroomAbvGr,KitchenAbvGr,TotRmsAbvGrd,GarageCars,GarageArea,SalePrice
 1,8450,7,2003,Gable,856,Y,856,854,2,1,3,1,8,2,548,208500
 2,9600,6,1976,Gable,1262,Y,1262,0,2,0,3,1,6,2,460,181500
@@ -1460,13 +1459,3 @@ Id,LotArea,OverallQual,YearBuilt,RoofStyle,TotalBsmtSF,CentralAir,1stFlrSF,2ndFl
 1458,9042,7,1941,Gable,1152,Y,1188,1152,2,0,4,1,9,1,252,266500
 1459,9717,5,1950,Hip,1078,Y,1078,0,1,0,2,1,5,1,240,142125
 1460,9937,5,1965,Gable,1256,Y,1256,0,1,1,3,1,6,1,276,147500
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:11c196c8b8542622f831310fe3ddb7e837bce7bf51fdc5a903d266af3ed7058e
-size 86562
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:11c196c8b8542622f831310fe3ddb7e837bce7bf51fdc5a903d266af3ed7058e
-size 86562
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
