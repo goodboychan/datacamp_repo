@@ -1,4 +1,3 @@
-
 survived,pclass,age,sibsp,parch,fare,male,age_was_missing,embarked_from_cherbourg,embarked_from_queenstown,embarked_from_southampton
 0,3,22.0,1,0,7.25,1,False,0,0,1
 1,1,38.0,1,0,71.2833,0,False,1,0,0
@@ -891,13 +890,3 @@ survived,pclass,age,sibsp,parch,fare,male,age_was_missing,embarked_from_cherbour
 0,3,29.69911764705882,1,2,23.45,0,True,0,0,1
 1,1,26.0,0,0,30.0,1,False,1,0,0
 0,3,32.0,0,0,7.75,1,False,0,1,0
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:f124f8d13addd8d32f6780034d06d1697513e16c32ecf527e2421e15addae783
-size 31708
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
-=======
-version https://git-lfs.github.com/spec/v1
-oid sha256:f124f8d13addd8d32f6780034d06d1697513e16c32ecf527e2421e15addae783
-size 31708
->>>>>>> 6f27ddb2cb71f43a45813c0164d64e70f8a29233
